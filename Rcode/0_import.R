@@ -1,13 +1,12 @@
 ########################################################################
-####################### READ DATA ######################################
+####################### IMPORT DATA ######################################
 ########################################################################
 
-#set wd and load packages
-  setwd("/Users/neele/OneDrive/Dokumente/Uni/Bachelorarbeit/BA_Daten/R_Datenanalyse")
-  library(tidyverse)  #tidyverse contains (amongst others) tidyr, dplyr, ggplot2
+# load packages
+  library(tidyverse)
 
 ######################################
-#STR DATA
+# STR DATA
 ######################################
   #necessary files for startle data read-in:
     #(1) txt.file (output from matlab) with startle data >> Startle_19Mar.txt
@@ -18,10 +17,9 @@
     str.data = read.table("STR/Startle_19Mar.txt", dec=".", sep=",", header=TRUE, na = "NA", stringsAsFactors=F)
     names(str.data) = c('vp','strtrial','trigger','quality','response', 'responselatency', 'peaklatency')
     str.data$quality = as.factor(str.data$quality)
+    
   #converting response from millivolt (matlab default) to microvolt
     str.data$response = as.numeric(str.data$response)*1000
-  #checking structure
-    str(str.data); summary(str.data)
   
   #drop trigger, responselatency and peaklatency because where only interested in response-magnitude
     str.data =  select(str.data, -trigger, -(responselatency:peaklatency))
@@ -53,7 +51,7 @@
 
   #every response where quality==3 is a missing and gets replaced with a 'NA'
     str.data.combi$response[which(str.data.combi$quality == "3")] = NA
-  #dropping all iti-responses because where just interested in the cs
+  #dropping all ITI-responses because where just interested in the cs
     str.data.combi = filter(str.data.combi, stimtype!=2)
     
   #Function: for-loop for trialnumbers short
@@ -110,10 +108,10 @@
 ######################################
 #SCR DATA
 ######################################
-  #necessary files for startle data read-in:
+  #necessary files for scr data read-in:
     #(1) txt.file (output from matlab) with scr data >> EDA_5s_001_19Mar.txt
     #(2) txt.files (4) containing the 4 different trial-orders respectively >> order[x].txt
-        #!important: these are different than the ones for str because they don't contain any iti or whatsoever
+        #!important: these are different than the ones for str because they don't contain any ITI
     #(3) txt.file containing the allocation of participant numbers 
                 #to the orders under which they got tested >> vp.numbers.txt
     
@@ -180,11 +178,7 @@
   #reorder the df rows in regard to some of the columns so it matches with str.data.final
     col_order = c('vp', 'order', 'stimtype', 'quality', 'response', 'trialshort', 'triallong')
     scr.data.final = scr.data.final[, col_order]
-    
-      #(if interested: % of NR to ucs) >> every vp reacts 8x on ucs (excluding SWU)
-      #  scr.data %>% filter(trigger == 122) %>% group_by(vp) %>%  #trigger '122' >> ucs
-      #    do(tail(., 8)) %>% filter(response==0) %>% nrow()/(N*8) #cut out the reactions from SWU & count NR
-    
+  
   #check structure & clean up workspace
     rm(scr.data, scr.data.combi, order1scr, order2scr, order3scr, order4scr,
          vpnumbersscr, trialorderscr, qualityscr, col_order, appendtrialnumberslong, appendtrialnumbersshort)
@@ -195,7 +189,7 @@
 #TRANSFORMATION OF SCR
 ###################  
   library(MASS)       #needed for boxcox function
-  #drop all non-respoponses because box-cox-function works just with responses>0
+  #drop all non-responses because box-cox-function works just with responses>0
     #have a look at response distribution
       scr.data.final %>% filter(response != 0) %>%
        ggplot(aes(x=response))+

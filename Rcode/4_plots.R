@@ -2,19 +2,7 @@
 ######################## PLOT RESULTS ##################################
 ########################################################################
   
-#######needed: fin1 from script "Modelbuild.R"  
- 
-#EXTRACT MODEL VALUES:
-  # random.effects(null)  #extracts random effects        #equivalent to: ranef(null) 
-  # fixed.effects(null)   #extracts fixed effects         #equivalent to: fixef(null)
-  # coef(null)            #extracts model coefficients
-  # resid(null)           #extracts residuals (level1?)   #equivalent to:  residuals(null)
-  # fitted(null)          #extracts fitted values
-  # getGroups(null)       #extracts groups
-  # getResponse(null)     #????
-  # intervals(null, 0.95, which="fixed")    #gives CI for all estimated effects
-  # pairs(null)           #scatterplots of random effects
-  # predict(null)         #same as fitted?
+#needed: fin1 from script 3_analysis  
 
 #####################
 #EXTRAXT PREDICTIONS AND RESIDUALS FROM FINAL MODEL

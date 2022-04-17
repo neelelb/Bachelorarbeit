@@ -2,7 +2,7 @@
 ############ EXPLORATIVE ANALYSIS & DESCRIPTIVES #######################
 ########################################################################
 
-###### needed: str.data.final and scr.data.final from script "ReadData.R" ######
+###### needed: str.data.final and scr.data.final from script 0_import ######
 
 ###################
 #EXCLUDE PARTICIPANTS

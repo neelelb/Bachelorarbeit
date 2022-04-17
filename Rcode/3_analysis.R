@@ -1,10 +1,10 @@
 ########################################################################
 ################# MODELBUILD MULTIVARIATE ##############################
 ########################################################################
-  library(nlme)   #for modelbuilding
+  library(nlme)
 ######
-#this code needs to run AFTER the SCR and STR data has been reorganized in "ReadData.R" to 
-#scr.data.final and str.data.final and after "EDA.R" has run
+#this code needs to run AFTER the SCR and STR data has been reorganized in 0_import to 
+#scr.data.final and str.data.final and after 1_EDA ran
 ######
  
 ########################  
