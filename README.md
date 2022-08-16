@@ -4,11 +4,11 @@ A repo for preprocessing and analyzing experimental EMG and EDA Biopac Data in R
 
 ## Repo Content
 The repo contains R files for 
-- (0) importing the data, 
-- (1) exploratory data analysis, 
-- (2) plots for EDA, 
-- (3) Analysis using Multivariate Multilevel Regression Model, and 
-- (4) plots of the results
+0. importing the data, 
+1. exploratory data analysis, 
+2. plots for EDA, 
+3. Analysis using Multivariate Multilevel Regression Model, and 
+4. plots of the results  
 as well as tex files for creating the Bachelor Thesis manuscript
 
 
