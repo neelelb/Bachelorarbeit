@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '/Users/neele/Documents/github/Bachelorarbeit/latex/.texpadtmp/main.blg'
+[191] biber-darwin:340> INFO - === Tue Aug 16, 2022, 09:56:28
+[277] Biber.pm:415> INFO - Reading '/Users/neele/Documents/github/Bachelorarbeit/latex/.texpadtmp/main.bcf'
+[748] Biber.pm:952> INFO - Found 90 citekeys in bib section 0
+[799] Biber.pm:4340> INFO - Processing section 0
+[826] Biber.pm:4531> INFO - Looking for bibtex format file '/Users/neele/Documents/github/Bachelorarbeit/latex/./literature.bib' for section 0
+[847] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1690] bibtex.pm:1494> INFO - Found BibTeX data source '/Users/neele/Documents/github/Bachelorarbeit/latex/./literature.bib'
+[3323] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3323] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3323] Biber.pm:4168> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[3324] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[3590] bbl.pm:654> INFO - Writing '/Users/neele/Documents/github/Bachelorarbeit/latex/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[3748] bbl.pm:757> INFO - Output to /Users/neele/Documents/github/Bachelorarbeit/latex/.texpadtmp/main.bbl

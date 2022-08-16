@@ -1,0 +1,237 @@
+% BACHELORARBEIT PRÄAMBEL
+% Autor..................................Neele Elbersgerd
+% Erstellungsdatum.......................10.08.2020
+
+\documentclass[
+fontsize=10pt, 
+paper=a4, 
+oneside,
+%fleqn,  									% abgesetzte Formeln werden linksbündig ausgerichtet
+%parskip=half+, 							% halber Zeilenabstand nach Absatz, +: min. ein Drittel der letzten Zeile eines Absatzes leer>> laut APA nicht nötig, daher raus
+%headsepline = true,						%Linie unter Kopfzeile
+headheight=30pt,
+footheight=17pt,
+abstract = true, 							% Überschrift im Abstract
+%pointednumbers, 							% Punkt nach Gliederungszahl
+toc=listof, toc=bibnumbered, 				% was soll in table of contents
+listof=nochaptergap,
+%toc=chapterentrywithdots,					% im toc auch Punkte zwischen Chapter und Seitenzahl
+headings=optiontohead,						% optionale Befehle für Kolumnentitel
+%noapacite,
+numbers= noendperiod,
+BCOR=8mm									% Bindekorrektur links --> wie viel?
+]{scrreprt}
+\AfterTOCHead{\linespread{1.25}\selectfont}	% Verzeichnisse mit kleinerem Zeilenabstand
+
+% Allgemeines
+		\usepackage[automark]{scrlayer-scrpage} 	% Kopf- und Fußzeilen
+		\usepackage{amsmath,marvosym, amssymb} 		% Mathesachen
+		\usepackage[TS1, T1]{fontenc} 				% Ligaturen, richtige Umlaute im PDF
+		\usepackage[utf8]{inputenc}					% UTF8-Kodierung für Umlaute usw
+		\usepackage[ngerman]{babel} 				% Silbentrennung
+		\usepackage{mathtools} 						% mathematische Symbole
+		\usepackage{upgreek}						% aufrechte griechische Buchstaben
+		\usepackage[right]{eurosym}					% Eurosymbol
+		\usepackage{siunitx}						% Einheiten
+	%wie soll LaTeX bestimmte Wörter trennen?
+		\hyphenation{Stab-elek-tro-de}
+		\hyphenation{Haut-leit-wert-re-ak-tion}
+
+% Absätze, Abstände, Seitenformat
+		\usepackage[a4paper, left = 26mm, right = 26mm, top = 26mm, bottom = 26mm, 
+		%showframe									% zeigt Satzspiegelränder
+		]{geometry}    								% Textbreite
+		%\setlength{\headsep}{0.7cm}				% Abstand zwischen Kopfzeile & Rumpf
+		%\setlength{\footskip}{0.7cm}				% Abstand zwischen Fußzeile & Rumpf
+		\usepackage{setspace} 						% 1.5 Zeilenabstand wie es üblicherweise 
+			\setstretch{1.4}							% verstanden wird
+		%\usepackage[onehalfspacing]{setspace}  	% eigentliche 1.5 Zeilenabstand
+
+		\setlength{\parindent}{1.27cm}
+		\usepackage{indentfirst} %um nach Überschrift 1. Indent nicht zu unterdrücken
+		\renewcommand{\chapterheadstartvskip}{\vspace*{1\topskip}}	% Abstand von Kopfzeile zu Chapter-Überschrift
+		\renewcommand{\chapterheadendvskip}{\vspace*{1\topskip}}	% Abstand von Chapter-Überschrift zu Text
+
+
+% Überschriftenformatierung
+		\renewcommand*{\chaptermarkformat}{\normalfont{ }}	% keine Nummerierung in Kopfzeile
+		\renewcommand*{\raggedchapter}{\centering}			% Kapitelüberschriften mittig
+		\RedeclareSectionCommand[beforeskip=-.25\baselineskip, afterskip=.25\baselineskip]{section}		% Abstand von Section Überschrift zu Text	
+		\setkomafont{pagehead}{\normalfont{ }}		% Kopfzeilen vor Einleitung nicht kursiv
+		
+		%%%%%%SUSBSECTION 3. EBENE %%%%%%%%%
+		%%%%%% VERSION Inline mit Einrückung %%%%%%%
+			%\RedeclareSectionCommand[beforeskip=-.75\baselineskip, indent= 1.27cm, afterskip=-.5em]{subsection}		%afterskip: minus=In-Line Subsection Überschrift, Zahl = Abstand zum Folgetext,
+		
+		%%%%%% VERSION Outline ohne Einrückung %%%%%%%
+			\RedeclareSectionCommand[beforeskip=-.25\baselineskip, afterskip=.25\baselineskip]{subsection}		%afterskip: minus=In-Line Subsection Überschrift, Zahl = Abstand zum Folgetext, 
+		
+		
+% Schriftform & -größe
+		\setkomafont{chapter}{\LARGE\rmfamily} 			% Überschrift der Ebene
+		\setkomafont{section}{\Large\rmfamily}
+		\setkomafont{subsection}{\large\rmfamily}
+		\setkomafont{subsubsection}{\large\rmfamily}
+		\setkomafont{chapterentry}{\large\rmfamily} 	% Überschrift in Inhaltsverzeichnis
+		\setkomafont{descriptionlabel}{\bfseries\rmfamily} % für description-Umgebungen
+		\setkomafont{captionlabel}{\small\bfseries}
+		\setkomafont{caption}{\small}
+		\usepackage{courier}							% für Zitation von Packages
+		%\addtokomafont{disposition}{\Large} 			% Überschrift Abstract größer
+
+% Tabellen
+		\usepackage{multirow} 		% Tabellen-Zellen über mehrere Zeilen
+		\usepackage{multicol} 		% mehrere Spalten auf eine Seite
+		\usepackage{tabularx} 		% für Tabellen mit vorgegeben Größen
+		\newcolumntype{C}{>{\centering\arraybackslash}X}	%centering Option in tabularx-float
+		\usepackage{longtable} 		% Tabellen über mehrere Seiten
+		\usepackage{array}			% zentrierte Elemente in Tabelle
+		%\usepackage{rotating}     	% vertikaler Text in Tabellen
+		\usepackage{booktabs}		% für Gestaltung horizontaler Linien
+		\usepackage{chngcntr}		% counter für Tabellen-/Equation-/Figure-Nummerierung
+			\counterwithout{table}{chapter}	% Tabellennummerierung unabhängig von Chapternr.
+		\usepackage{caption}
+		\DeclareCaptionLabelFormat{Nummerierung}{#1 #2}
+		\captionsetup[table]{ 		% caption-package setup für Tab
+			format=plain,  			% indention= generiert Einzug
+			textfont={it, onehalfspacing, normalsize}, 	% Überschrift kursiv
+			labelfont={normalfont,normalsize}, 			% Tabellennummerierung
+			labelformat = Nummerierung,
+			font=onehalfspacing,
+			%width=.9\textwidth,	% feste Breite
+			justification=justified,% Blocksatz
+			singlelinecheck=false,	% damit Überschrift nicht zentriert, wenn einzeilig
+			labelsep=newline,		% Abstand zw. Tabellennr. und Titel
+			skip=0pt}				% Abstand zwischen Tabelle und Text davor
+		\usepackage{threeparttable}
+		% mglw. interessant: Use the siunitx package to align numbers with decimals
+		\usepackage[table,xcdraw]{xcolor} 				% Farben
+
+% Farben
+		\definecolor{upblau}{HTML}{00305E} 				% uni potsdam blau
+		\definecolor{upgrau}{HTML}{EBEBEB} 				% uni potsdam grau
+		\definecolor{uporange}{HTML}{DF9945}			% humanwissenschaftsorange
+		\definecolor{hrvbfborange}{HTML}{E46B0C}		% hrvbfb
+		\definecolor{hrvbfbblau}{HTML}{00AFF4}  		% hrvbfb 
+	
+
+% PDF
+		\usepackage[ngerman,pdfauthor={Neele Elbersgerd},  pdfauthor={Neele Elbersgerd}, pdftitle={Bachelorarbeit Psychologie}, pdfproducer	={LaTeX with hyperref},  
+		breaklinks=true, 				% Zeilenumbruch bei links möglich
+		bookmarks=true, 				% zeigt Lesezeichen in pdf an
+		%colorlinks=true, linkcolor = up,	% wenn die Links farbig sein sollen
+		linkbordercolor=upblau,				% für Farben der Kästen um Referenzen
+		citebordercolor=upgrau,				% für Farben der Kästen um Zitationen
+		urlbordercolor=uporange,			% für Farben der Kästen um URL-Links
+		]{hyperref}
+		\usepackage[final]{microtype} 	% mikrotypographische Optimierungen
+		\usepackage{url} 				% ermöglicht Links (URLs)
+		\usepackage{pdflscape} 			% einzelne Seiten drehen können
+		\usepackage{pdfpages}      		% einbinden von pdf-Dateien
+
+
+
+
+% Abbildungen
+		\usepackage{graphicx} 			% Bilder
+		\graphicspath{{images/}} 		% Standardpfad für Bilder
+		\DeclareGraphicsExtensions{.pdf,.png,.jpg}	% bevorzuge pdf-Dateien vor den anderen
+		\usepackage{subcaption}  					% mehrere Abbildungen übereinander
+		\usepackage[all]{hypcap} 		% Klick auf Referenz führt zu Bild (nicht Caption)
+		\usepackage{tikz}				% Zeichnungen in LaTeX
+			\usetikzlibrary{positioning}
+		\counterwithout{figure}{chapter}	% Abbildungsnummerierung unabhängig von Chapternr.
+		\captionsetup[figure]{			% Captions bei Bildern
+			format=plain,
+			indention=0pt,				% kein Einzug
+			labelsep=period,			% Punkt nach "Abbildung"
+			labelfont=it,				% "Abbildung" kursiv
+			margin={0pt,0.1\textwidth}, 	%rechter Rand, sodass Caption nur 90% von Textbreite
+			justification=justified,
+			singlelinecheck=false,
+			font=onehalfspacing
+		}
+		%\setcapwidth[l]{0.9\textwidth} % Breite der Caption nur 90% der Textbreite
+		%\setcapindent*{0em} 			% kein Einrücken der Caption von Figures und Tabellen
+		\setlength{\abovecaptionskip}{0.3cm} % Abstand der zwischen Bild- und Bildunterschrift
+
+
+%  Verzeichnisse & Bibliographie
+		\setcounter{tocdepth}{\sectiontocdepth} 		% Gliederungstiefe ToC bis inkl. Section
+		\usepackage{bibgerm} 							% Umlaute in BibTeX
+		\usepackage[autostyle, german=quotes]{csquotes}	% deutsche Anführungszeichen
+			
+		%Anhang
+		\newcommand*{\appendixmore}{		% siehe KOMA Doku S.339
+			\renewcommand*{\chapterformat}{
+				\appendixname~\thechapter\autodot\enskip}
+			\renewcommand*{\chaptermarkformat}{
+				\appendixname~\thechapter\autodot\enskip}}
+
+
+%funktionierender BibLatex mit APA:	
+		\usepackage[style=apa, 
+		%apabackref=true, 			% Seitenangaben der Zitation im Verzeichnis
+		backend=biber, 				% Biber als Backend
+		hyperref=true, 				% Links in pdf
+		%maxcitenames=6, maxnames=6, minbibnames=6, maxbibnames=6, % nur für bib
+		apamaxprtauth=6, 			% max. 6 Namen, danach Auslassungszeichen
+		%sorting = debug, 
+		natbib=true, 
+		language=ngerman, 
+		doi=true, url=true, 
+		%eprint=false,
+		%useprefix=true,			
+		uniquename=init 
+		]{biblatex}
+		\DeclareLanguageMapping{ngerman}{ngerman-apa}		% deutsceh Sprache
+		\DefineBibliographyStrings{ngerman}{				% et al. darstellen
+			andothers={et\ al\adddot}}	
+		\addbibresource{./literature.bib} 			% Speicherort der Literatur
+				
+		%\DefineBibliographyExtras{ngerman}{\DeclareQuotePunctuation{.,}}
+				
+
+% Abkürzungsverzeichnis
+		\usepackage{acronym}
+
+% Quellcode		% für Formatierung in Quelltexten, hier im Anhang
+		\usepackage{listings}
+		\definecolor{grau}{gray}{0.25}
+		\lstset{
+			extendedchars=true,
+			basicstyle=\tiny\ttfamily,
+			%basicstyle=\footnotesize\ttfamily,
+			tabsize=2,
+			keywordstyle=\textbf,
+			commentstyle=\color{grau},
+			stringstyle=\textit,
+			numbers=left,
+			numberstyle=\tiny,
+			breakautoindent  = true,		% für schönen Zeilenumbruch
+			breakindent      = 2em,
+			breaklines       = true,
+			postbreak        = ,
+			prebreak         = \raisebox{-.8ex}[0ex][0ex]{\Righttorque},
+		}
+		\usepackage{scrhack} 				% Vermeidung einer Warnung, die durch das Paket listings zum Anzeigen von Quelltext auftritt
+
+% Fußzeile
+		%\deffootnote{1.5em}{1em}{\makebox[1.5em][l]{\thefootnotemark}}	% linksbündige Fußnoten
+
+% Eigene Befehle
+	\newcommand{\leadingzero}[1]{							% führende Nullen (Datum)
+		\ifnum #1<10 0\the#1\else\the#1\fi} 
+	\newcommand{\todayI}{									% Datumsformat
+		\leadingzero{\day}.\leadingzero{\month}.\the\year}			
+	\newcommand{\mat}[1]{\mathbf{#1}} 						% Matrizen-Format
+	\newcommand*{\ditto}{"}									% ditto marks
+	\setcounter{equation}{0}					% für Referenzen der Gleichungen ab (1)
+		\counterwithout{equation}{chapter}
+		\renewcommand{\theequation}{\arabic{equation}}
+		\newcommand{\nr}{\addtocounter{equation}{1}\tag{\theequation}}
+	
+
+%\typearea{14} % typearea berechnet einen sinnvollen Satzspiegel (das heißt die Seitenränder usw.) siehe auch http://www.ctan.org/pkg/typearea. Diese Berechnung befindet sich am Schluss, damit die Einstellungen von oben berücksichtigt werden
+%\setlength{\parindent}{0pt}					% kein Einrücken im Text
+

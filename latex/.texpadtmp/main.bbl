@@ -1,0 +1,4511 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{BAGIELLA2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b5f04861226a400e96d1d7f290017243}{%
+           family={Bagiella},
+           familyi={B\bibinitperiod},
+           given={Emilia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1f725bbe3b9e783c8aa58195c8e6847}{%
+           family={Sloan},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d6fecbd268cdbf1e32274b4a1e0965}{%
+           family={Heitjan},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ced58173aa0ad0767e9946f4ff6b3ef0}
+      \strng{fullhash}{daab1a867351053fc2372a5bffd079f8}
+      \strng{bibnamehash}{daab1a867351053fc2372a5bffd079f8}
+      \strng{authorbibnamehash}{daab1a867351053fc2372a5bffd079f8}
+      \strng{authornamehash}{ced58173aa0ad0767e9946f4ff6b3ef0}
+      \strng{authorfullhash}{daab1a867351053fc2372a5bffd079f8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{01}
+      \field{title}{Mixed‐effects models in psychophysiology}
+      \field{volume}{37}
+      \field{year}{2000}
+      \field{pages}{13\bibrangedash 20}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/1469-8986.3710013
+      \endverb
+      \keyw{Mixed effects models,Repeated measures designs,Variance-covariance matrix}
+    \endentry
+    \entry{BARR2013}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753f43903878bb8de4a1be793bf5be58}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={Dale\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media {SA}}%
+      }
+      \strng{namehash}{753f43903878bb8de4a1be793bf5be58}
+      \strng{fullhash}{753f43903878bb8de4a1be793bf5be58}
+      \strng{bibnamehash}{753f43903878bb8de4a1be793bf5be58}
+      \strng{authorbibnamehash}{753f43903878bb8de4a1be793bf5be58}
+      \strng{authornamehash}{753f43903878bb8de4a1be793bf5be58}
+      \strng{authorfullhash}{753f43903878bb8de4a1be793bf5be58}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{Random effects structure for testing interactions in linear mixed-effects models}
+      \field{volume}{4}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2013.00328
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389%2Ffpsyg.2013.00328
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389%2Ffpsyg.2013.00328
+      \endverb
+    \endentry
+    \entry{BENEDEK2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=016d1671d3b73df3c2171f402c594737}{%
+           family={Benedek},
+           familyi={B\bibinitperiod},
+           given={Mathias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc5d39330757d445e9b2f919db0947f1}{%
+           family={Kaernbach},
+           familyi={K\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \strng{fullhash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \strng{bibnamehash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \strng{authorbibnamehash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \strng{authornamehash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \strng{authorfullhash}{6754ceeb1c3182eddcecddf7e79c5c65}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neuroscience Methods}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{A continuous measure of phasic electrodermal activity}
+      \field{volume}{190}
+      \field{year}{2010}
+      \field{pages}{80\bibrangedash 91}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jneumeth.2010.04.028
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.jneumeth.2010.04.028
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.jneumeth.2010.04.028
+      \endverb
+    \endentry
+    \entry{BICKEL2007}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=530ba6dacc5c9bef2732288d95db1b7e}{%
+           family={Bickel},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {The Guilford Press}%
+      }
+      \strng{namehash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \strng{fullhash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \strng{bibnamehash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \strng{authorbibnamehash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \strng{authornamehash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \strng{authorfullhash}{530ba6dacc5c9bef2732288d95db1b7e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multilevel analysis for applied research: It's just regression!}
+      \field{year}{2007}
+    \endentry
+    \entry{BLUMENTHAL2005}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=a7cad0e35033fec92fb4893566054012}{%
+           family={Blumenthal},
+           familyi={B\bibinitperiod},
+           given={Terry\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957265cec1df1530d912fa9e4ad0df95}{%
+           family={Cuthbert},
+           familyi={C\bibinitperiod},
+           given={Bruce\bibnamedelima N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20c3193adb9a63486f32c54e9ed8102}{%
+           family={Filion},
+           familyi={F\bibinitperiod},
+           given={Diane\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb8e9baf8052be015189d85c0cb6127}{%
+           family={Hackley},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2026a218bee4bc3de0ea46b7af7eab75}{%
+           family={Lipp},
+           familyi={L\bibinitperiod},
+           given={Ottmar\bibnamedelima V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe2fcbcfc2dbb52e2e68cf26d896c282}{%
+           family={Boxtel},
+           familyi={B\bibinitperiod},
+           given={Anton\bibnamedelima Van},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1e8efb09f90f441b118f0e46379d243}
+      \strng{fullhash}{6396529d2a285d2d2f05865544cf1b10}
+      \strng{bibnamehash}{6396529d2a285d2d2f05865544cf1b10}
+      \strng{authorbibnamehash}{6396529d2a285d2d2f05865544cf1b10}
+      \strng{authornamehash}{a1e8efb09f90f441b118f0e46379d243}
+      \strng{authorfullhash}{6396529d2a285d2d2f05865544cf1b10}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Committee report: Guidelines for human startle eyeblink electromyographic studies}
+      \field{volume}{42}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.2005.00271.x
+      \endverb
+      \keyw{Startle,Blink,Electromyographic (EMG),Human}
+    \endentry
+    \entry{BOUCSEIN2012}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=69d676ef6050ca31b1b258f05795b1c0}{%
+           family={Boucsein},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4adcd2d0b97340b9e1baf3099016c5bd}{%
+           family={Fowles},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20392075418c2892ab34030fb76d3ad8}{%
+           family={Grimnes},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7af2cdfe302837f1b650b05265a29142}{%
+           family={Ben-Shakhar},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b16396d06f9574336dcbdd0f4a44f61a}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={W.\bibnamedelimi T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=153d7bf1b504c98922068fa29930f7af}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20c3193adb9a63486f32c54e9ed8102}{%
+           family={Filion},
+           familyi={F\bibinitperiod},
+           given={Diane\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{903d5652c166fdd8daa2832676ac083e}
+      \strng{fullhash}{1c88204f47d3a17e6e3904b7b6b1c7b9}
+      \strng{bibnamehash}{1c88204f47d3a17e6e3904b7b6b1c7b9}
+      \strng{authorbibnamehash}{1c88204f47d3a17e6e3904b7b6b1c7b9}
+      \strng{authornamehash}{903d5652c166fdd8daa2832676ac083e}
+      \strng{authorfullhash}{1c88204f47d3a17e6e3904b7b6b1c7b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{06}
+      \field{number}{8}
+      \field{title}{Publication recommendations for electrodermal measurements}
+      \field{volume}{49}
+      \field{year}{2012}
+      \field{pages}{1017\bibrangedash 1034}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.2012.01384.x
+      \endverb
+      \keyw{Electrodermal measurement,Skin potential,Skin conductance,Skin admittance,Laboratory and field recording}
+    \endentry
+    \entry{BOX1964}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=002f69bf140cceda97f81a168d86ceec}{%
+           family={Box},
+           familyi={B\bibinitperiod},
+           given={G.\bibnamedelimi E.\bibnamedelimi P.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d4d0b24655232a7821096d23c2354b5}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{5e366e99b3c71b7753f79f011fac39b1}
+      \strng{fullhash}{5e366e99b3c71b7753f79f011fac39b1}
+      \strng{bibnamehash}{5e366e99b3c71b7753f79f011fac39b1}
+      \strng{authorbibnamehash}{5e366e99b3c71b7753f79f011fac39b1}
+      \strng{authornamehash}{5e366e99b3c71b7753f79f011fac39b1}
+      \strng{authorfullhash}{5e366e99b3c71b7753f79f011fac39b1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Statistical Society: Series B (Methodological)}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{An analysis of transformations}
+      \field{volume}{26}
+      \field{year}{1964}
+      \field{pages}{211\bibrangedash 243}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1111/j.2517-6161.1964.tb00553.x
+      \endverb
+    \endentry
+    \entry{BRADFORD2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=252dadefd06c954c2eef44a63c04c442}{%
+           family={Bradford},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbbd9b02c248a9ee5684835449f68f33}{%
+           family={Starr},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7851916f97fc9f3cc8505524ea78d744}{%
+           family={Shackman},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db325fae8f1361b0cd0b1302af6e9aa1}{%
+           family={Curtin},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{791dfb60791edd48f885487e5b1b6ebd}
+      \strng{fullhash}{6b1e17358007d5e94cf82f6987822451}
+      \strng{bibnamehash}{6b1e17358007d5e94cf82f6987822451}
+      \strng{authorbibnamehash}{6b1e17358007d5e94cf82f6987822451}
+      \strng{authornamehash}{791dfb60791edd48f885487e5b1b6ebd}
+      \strng{authorfullhash}{6b1e17358007d5e94cf82f6987822451}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{09}
+      \field{number}{12}
+      \field{title}{Empirically based comparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans}
+      \field{volume}{52}
+      \field{year}{2015}
+      \field{pages}{1669\bibrangedash 1681}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/psyp.12545
+      \endverb
+      \keyw{Startle blink,Analysis/statistical methods,EMG,Anxiety}
+    \endentry
+    \entry{BRADLEY2000}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=72097da30e06e7c16a624d1bb3ac31d4}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80ac736b2587174ffa5b73f72e6e6057}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fab9de47187ae073a991b66331211fc9}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=69a04fdff3a2a3ce27bb12bfd1458ca7}{%
+           family={Nadel},
+           familyi={N\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{fullhash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{bibnamehash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{authorbibnamehash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{authornamehash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{authorfullhash}{3ca59922151192b745040a0754e0f7e6}
+      \strng{editorbibnamehash}{a556d45cd3a793ad1997941980b47877}
+      \strng{editornamehash}{a556d45cd3a793ad1997941980b47877}
+      \strng{editorfullhash}{a556d45cd3a793ad1997941980b47877}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Cognitive neuroscience of emotion}
+      \field{series}{Series in affective science}
+      \field{title}{Measuring emotion: Behavior, feeling, and physiology}
+      \field{year}{2000}
+      \field{pages}{242\bibrangedash 276}
+      \range{pages}{35}
+    \endentry
+    \entry{BRADLEY2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=72097da30e06e7c16a624d1bb3ac31d4}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72d89c3ead9f4cc5554937a27129dab3}{%
+           family={Moulder},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80ac736b2587174ffa5b73f72e6e6057}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9c0f79ba48931a181f470f91df86a88}
+      \strng{fullhash}{23b7046bdb9f08c7b20d83a1bdfbf30b}
+      \strng{bibnamehash}{23b7046bdb9f08c7b20d83a1bdfbf30b}
+      \strng{authorbibnamehash}{23b7046bdb9f08c7b20d83a1bdfbf30b}
+      \strng{authornamehash}{b9c0f79ba48931a181f470f91df86a88}
+      \strng{authorfullhash}{23b7046bdb9f08c7b20d83a1bdfbf30b}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Science}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{When good things go bad: The reflex physiology of defense}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{468\bibrangedash 473}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1111/j.0956-7976.2005.01558.x
+      \endverb
+    \endentry
+    \entry{BRADLEY1994}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f8dbb474aab518a60ef996c0d75ec6fc}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83afdc8aa8ffb1b3f2a4f55ea065d03d}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \strng{fullhash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \strng{bibnamehash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \strng{authorbibnamehash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \strng{authornamehash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \strng{authorfullhash}{5b35a7b779de53d3ee67fda3fa02c8bf}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Behavior Therapy and Experimental Psychiatry}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{Measuring emotion: The self-assessment manikin and the semantic differential}
+      \field{volume}{25}
+      \field{year}{1994}
+      \field{pages}{49\bibrangedash 59}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/0005-7916(94)90063-9
+      \endverb
+    \endentry
+    \entry{BRADLEY1993b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f8dbb474aab518a60ef996c0d75ec6fc}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83afdc8aa8ffb1b3f2a4f55ea065d03d}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957265cec1df1530d912fa9e4ad0df95}{%
+           family={Cuthbert},
+           familyi={C\bibinitperiod},
+           given={Bruce\bibnamedelima N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2dcd4c62f8ab4733d04015a40b1e97f2}
+      \strng{fullhash}{d1d1c0bf5cfa13351316c9379c0db7c5}
+      \strng{bibnamehash}{d1d1c0bf5cfa13351316c9379c0db7c5}
+      \strng{authorbibnamehash}{d1d1c0bf5cfa13351316c9379c0db7c5}
+      \strng{authornamehash}{2dcd4c62f8ab4733d04015a40b1e97f2}
+      \strng{authorfullhash}{d1d1c0bf5cfa13351316c9379c0db7c5}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Neuroscience}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Emotion, novelty, and the startle reflex: Habituation in humans}
+      \field{volume}{107}
+      \field{year}{1993}
+      \field{pages}{970\bibrangedash 980}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1037/0735-7044.107.6.970
+      \endverb
+    \endentry
+    \entry{BRAUER2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88e7b73029c3c7bc9bcf1ea3fe7a4412}{%
+           family={Brauer},
+           familyi={B\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db325fae8f1361b0cd0b1302af6e9aa1}{%
+           family={Curtin},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{485f885ad881dc1b71016652df4d2bbc}
+      \strng{fullhash}{485f885ad881dc1b71016652df4d2bbc}
+      \strng{bibnamehash}{485f885ad881dc1b71016652df4d2bbc}
+      \strng{authorbibnamehash}{485f885ad881dc1b71016652df4d2bbc}
+      \strng{authornamehash}{485f885ad881dc1b71016652df4d2bbc}
+      \strng{authorfullhash}{485f885ad881dc1b71016652df4d2bbc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Methods}
+      \field{month}{09}
+      \field{number}{3}
+      \field{title}{Linear mixed-effects models and the analysis of nonindependent data: A unified framework to analyze categorical and continuous independent variables that vary within-subjects and/or within-items.}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{389\bibrangedash 411}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/met0000159
+      \endverb
+      \keyw{The analysis of nonindependent data,within-subjects designs,linear mixed-effects models,fixed and random effects,convergence problems}
+    \endentry
+    \entry{BROWN1951}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c8944b71a45a78af0a89b79b6e7931a4}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Judson\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e30ba15f8be3b4d988783f16c7336549}{%
+           family={Kalish},
+           familyi={K\bibinitperiod},
+           given={Harry\bibnamedelima I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d066082231c0ae02242fc618e5a0c27d}{%
+           family={Farber},
+           familyi={F\bibinitperiod},
+           given={I.\bibnamedelimi E.},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc0f72b6dee7ebf7c5a60ad458eee8a1}
+      \strng{fullhash}{86e5a73e92df26fb8bda9d3bde8e20a0}
+      \strng{bibnamehash}{86e5a73e92df26fb8bda9d3bde8e20a0}
+      \strng{authorbibnamehash}{86e5a73e92df26fb8bda9d3bde8e20a0}
+      \strng{authornamehash}{dc0f72b6dee7ebf7c5a60ad458eee8a1}
+      \strng{authorfullhash}{86e5a73e92df26fb8bda9d3bde8e20a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{Conditioned fear as revealed by magnitude of startle response to an auditory stimulus}
+      \field{volume}{41}
+      \field{year}{1951}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1037/h0060166
+      \endverb
+    \endentry
+    \entry{EXTRAFONT}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad4f9244dbfff3b38eeeec6d91fbd7d}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Winston},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \strng{fullhash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \strng{bibnamehash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \strng{authorbibnamehash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \strng{authornamehash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \strng{authorfullhash}{3ad4f9244dbfff3b38eeeec6d91fbd7d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{extrafont: Tools for using fonts}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=extrafont
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=extrafont
+      \endverb
+    \endentry
+    \entry{CONSTANTINOU2021}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=912af3d561c884008c5f966eda82820d}{%
+           family={Constantinou},
+           familyi={C\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05c4508442686964901d7b3f32fa4178}{%
+           family={Purves},
+           familyi={P\bibinitperiod},
+           given={Kirstin\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bd88e64e795b980ac9c21de765debbd}{%
+           family={McGregor},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a0c69fba308b24a6a0af511adda569a}{%
+           family={Lester},
+           familyi={L\bibinitperiod},
+           given={Kathryn\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e008dcbc845ac0ed8912b27989d06410}{%
+           family={Barry},
+           familyi={B\bibinitperiod},
+           given={Tom\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5d753ca407526d41ecf3a49a4d5167b}{%
+           family={Treanor},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa8eab14015cf4d53f7a25e1be25ddcf}{%
+           family={Craske},
+           familyi={C\bibinitperiod},
+           given={Michelle\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2d32007432e887f0d0435ea0904878b}{%
+           family={Eley},
+           familyi={E\bibinitperiod},
+           given={Thalia\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{20f2f01fbcf8e3e70d8c583dfd07fb85}
+      \strng{fullhash}{7eb03646da8dd8cce431a7c468450b7f}
+      \strng{bibnamehash}{7eb03646da8dd8cce431a7c468450b7f}
+      \strng{authorbibnamehash}{7eb03646da8dd8cce431a7c468450b7f}
+      \strng{authornamehash}{20f2f01fbcf8e3e70d8c583dfd07fb85}
+      \strng{authorfullhash}{7eb03646da8dd8cce431a7c468450b7f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Behavior Therapy and Experimental Psychiatry}
+      \field{month}{03}
+      \field{title}{Measuring fear: Association among different measures of fear learning}
+      \field{volume}{70}
+      \field{year}{2021}
+      \field{pages}{101618}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jbtep.2020.101618
+      \endverb
+    \endentry
+    \entry{CURRAN2012}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fd47a49d7d6ea0302183a00c41201dff}{%
+           family={Curran},
+           familyi={C\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=534b89b8594575004ab9796d7b4e0a98}{%
+           family={McGinley},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d69085f81f6b69de4eef8983e743100}{%
+           family={Serrano},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b926ca27d87bb75c9a5b8c55c564ff8}{%
+           family={Burfeind},
+           familyi={B\bibinitperiod},
+           given={Chelsea},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=5c2c119052a5274b153f0090e3041c2c}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2398a84257159c479b3cfd454f701c72}{%
+           family={Camic},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cec18e1e6a0880ed0140f42413846bc3}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3c582902d1ffbc2f7d6701573b86e584}{%
+           family={Panter},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=0b0bfe310b6de3e1261dd4489fd9f986}{%
+           family={Rindskopf},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dd736fcfbe0223b3445345e94f890073}{%
+           family={Sher},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{b972e77bdc0d5d1309f7889915c2dc71}
+      \strng{fullhash}{221a819553174f01dda8eb20521483ed}
+      \strng{bibnamehash}{221a819553174f01dda8eb20521483ed}
+      \strng{authorbibnamehash}{221a819553174f01dda8eb20521483ed}
+      \strng{authornamehash}{b972e77bdc0d5d1309f7889915c2dc71}
+      \strng{authorfullhash}{221a819553174f01dda8eb20521483ed}
+      \strng{editorbibnamehash}{aa93532ed43ce4bcc79e8bbd47cd9439}
+      \strng{editornamehash}{3435128012cf472933ee01c1a685f497}
+      \strng{editorfullhash}{aa93532ed43ce4bcc79e8bbd47cd9439}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{APA} handbook of research methods in psychology, Vol. 3. Data analysis and research publication}
+      \field{title}{A multivariate growth curve model for three-level data}
+      \field{year}{2012}
+      \field{pages}{335\bibrangedash 358}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1037/13621-017
+      \endverb
+    \endentry
+    \entry{CURRAN2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd47a49d7d6ea0302183a00c41201dff}{%
+           family={Curran},
+           familyi={C\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ba35290d40f9f226b70fd3d22abb7f6}{%
+           family={Obeidat},
+           familyi={O\bibinitperiod},
+           given={Khawla},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87b6e339eb0bd13f542110081e5da083}{%
+           family={Losardo},
+           familyi={L\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b972e77bdc0d5d1309f7889915c2dc71}
+      \strng{fullhash}{4788ea4789232e8ea5527cba9fc29be7}
+      \strng{bibnamehash}{4788ea4789232e8ea5527cba9fc29be7}
+      \strng{authorbibnamehash}{4788ea4789232e8ea5527cba9fc29be7}
+      \strng{authornamehash}{b972e77bdc0d5d1309f7889915c2dc71}
+      \strng{authorfullhash}{4788ea4789232e8ea5527cba9fc29be7}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cognition and Development}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{Twelve frequently asked questions about growth curve modeling}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{121\bibrangedash 136}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/15248371003699969
+      \endverb
+    \endentry
+    \entry{CUTHBERT1996}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=957265cec1df1530d912fa9e4ad0df95}{%
+           family={Cuthbert},
+           familyi={C\bibinitperiod},
+           given={Bruce\bibnamedelima N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dbb474aab518a60ef996c0d75ec6fc}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83afdc8aa8ffb1b3f2a4f55ea065d03d}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{11a056cbc0326f5624620052dc3e6ae2}
+      \strng{fullhash}{711eeb6da37b722356f4b38bf06d23fd}
+      \strng{bibnamehash}{711eeb6da37b722356f4b38bf06d23fd}
+      \strng{authorbibnamehash}{711eeb6da37b722356f4b38bf06d23fd}
+      \strng{authornamehash}{11a056cbc0326f5624620052dc3e6ae2}
+      \strng{authorfullhash}{711eeb6da37b722356f4b38bf06d23fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{Probing picture perception: Activation and emotion}
+      \field{volume}{33}
+      \field{year}{1996}
+      \field{pages}{103\bibrangedash 111}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.1996.tb02114.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.1996.tb02114.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.1996.tb02114.x
+      \endverb
+    \endentry
+    \entry{DAVIS1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d27993d3d39ca56a54118eba9bc5ab30}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \strng{fullhash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \strng{bibnamehash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \strng{authorbibnamehash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \strng{authornamehash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \strng{authorfullhash}{d27993d3d39ca56a54118eba9bc5ab30}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Neuroscience}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{The role of the amygdala in fear and anxiety}
+      \field{volume}{15}
+      \field{year}{1992}
+      \field{pages}{353\bibrangedash 375}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1146/annurev.ne.15.030192.002033
+      \endverb
+      \keyw{learning,memory,conditioning}
+    \endentry
+    \entry{DAVIS2006}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c089f435be08225365f7e6c5f42526e}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{4c089f435be08225365f7e6c5f42526e}
+      \strng{fullhash}{4c089f435be08225365f7e6c5f42526e}
+      \strng{bibnamehash}{4c089f435be08225365f7e6c5f42526e}
+      \strng{authorbibnamehash}{4c089f435be08225365f7e6c5f42526e}
+      \strng{authornamehash}{4c089f435be08225365f7e6c5f42526e}
+      \strng{authorfullhash}{4c089f435be08225365f7e6c5f42526e}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{month}{11}
+      \field{number}{8}
+      \field{title}{Neural systems involved in fear and anxiety measured with fear-potentiated startle}
+      \field{volume}{61}
+      \field{year}{2006}
+      \field{pages}{741\bibrangedash 756}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1037/0003-066x.61.8.741
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037%2F0003-066x.61.8.741
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037%2F0003-066x.61.8.741
+      \endverb
+    \endentry
+    \entry{DAWSON2007b}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8d57cce927d877e60b3820dbd0bf3cf}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecd06de5011a5f4ef34161d59b79a50c}{%
+           family={Schell},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4ad1c32c602a730606670045d1e1eb9}{%
+           family={Filion},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=533326b502bb34f035a925876cca3624}{%
+           family={Cacioppo},
+           familyi={C\bibinitperiod},
+           given={J.T.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c56911163e99ff157961cad9de11287e}{%
+           family={Tassinary},
+           familyi={T\bibinitperiod},
+           given={L.G.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2803c7629664ca814a7a10bfd6f2406c}{%
+           family={Berntson},
+           familyi={B\bibinitperiod},
+           given={G.G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{415f7825d7fb3a12bdca61be2a44cf51}
+      \strng{fullhash}{ddef4e30a8d0fbada78d418ea9349b16}
+      \strng{bibnamehash}{ddef4e30a8d0fbada78d418ea9349b16}
+      \strng{authorbibnamehash}{ddef4e30a8d0fbada78d418ea9349b16}
+      \strng{authornamehash}{415f7825d7fb3a12bdca61be2a44cf51}
+      \strng{authorfullhash}{ddef4e30a8d0fbada78d418ea9349b16}
+      \strng{editorbibnamehash}{e67b6cb4477197e39d6a8f59f7747edf}
+      \strng{editornamehash}{aa46c50e43083e832340041b95d791c9}
+      \strng{editorfullhash}{e67b6cb4477197e39d6a8f59f7747edf}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of psychophysiology}
+      \field{edition}{3}
+      \field{title}{The electrodermal system}
+      \field{year}{2007}
+      \field{pages}{159\bibrangedash 181}
+      \range{pages}{23}
+    \endentry
+    \entry{DAWSON1973}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=153d7bf1b504c98922068fa29930f7af}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ffcbc487a617edae95b5f1ab93a45ea}{%
+           family={Biferno},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f1f625f439a56aab94855c594df74af}
+      \strng{fullhash}{3f1f625f439a56aab94855c594df74af}
+      \strng{bibnamehash}{3f1f625f439a56aab94855c594df74af}
+      \strng{authorbibnamehash}{3f1f625f439a56aab94855c594df74af}
+      \strng{authornamehash}{3f1f625f439a56aab94855c594df74af}
+      \strng{authorfullhash}{3f1f625f439a56aab94855c594df74af}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology}
+      \field{number}{1}
+      \field{title}{Concurrent measurement of awareness and electrodermal classical conditioning}
+      \field{volume}{101}
+      \field{year}{1973}
+      \field{pages}{55\bibrangedash 62}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1037/h0035524
+      \endverb
+    \endentry
+    \entry{DEHOUWER2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16bae0498c1e50ce46c9afa9e0ab4fec}{%
+           family={De\bibnamedelima Houwer},
+           familyi={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{fullhash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{bibnamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authorbibnamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authornamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authorfullhash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning {\&} Behavior}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{The propositional approach to associative learning as an alternative for association formation models}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.3758/lb.37.1.1
+      \endverb
+    \endentry
+    \entry{DEHOUWER2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16bae0498c1e50ce46c9afa9e0ab4fec}{%
+           family={De\bibnamedelima Houwer},
+           familyi={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e39f76e05342a97b3ce722952f3e827e}{%
+           family={Sherman},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ce1689b357fbd32b6511cbfe73475ab}{%
+           family={Gawronski},
+           familyi={G\bibinitperiod},
+           given={Bertram},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5a2a1dab731e737f980219276b526b13}{%
+           family={Trope},
+           familyi={T\bibinitperiod},
+           given={Yaacov},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {The Guilford Press}%
+      }
+      \strng{namehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{fullhash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{bibnamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authorbibnamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authornamehash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{authorfullhash}{16bae0498c1e50ce46c9afa9e0ab4fec}
+      \strng{editorbibnamehash}{8be6ef12d4d8b05e3a33742438ab5dfc}
+      \strng{editornamehash}{c473e02bd53f8027a45ad1bcb97f5049}
+      \strng{editorfullhash}{8be6ef12d4d8b05e3a33742438ab5dfc}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dual-process theories of the social mind}
+      \field{month}{01}
+      \field{title}{Why a propositional single‑process model of associative learning deserves to be defended}
+      \field{year}{2014}
+      \field{pages}{530\bibrangedash 541}
+      \range{pages}{12}
+    \endentry
+    \entry{BSI}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e3e11c2768467aaf145901f74f878213}{%
+           family={Derogatis},
+           familyi={D\bibinitperiod},
+           given={Leonard\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2634e6696b06fe6016f0653d0bc877ba}{%
+           family={Melisaratos},
+           familyi={M\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press ({CUP})}%
+      }
+      \strng{namehash}{7c70bba69916f648362ab10efdc1cc3e}
+      \strng{fullhash}{7c70bba69916f648362ab10efdc1cc3e}
+      \strng{bibnamehash}{7c70bba69916f648362ab10efdc1cc3e}
+      \strng{authorbibnamehash}{7c70bba69916f648362ab10efdc1cc3e}
+      \strng{authornamehash}{7c70bba69916f648362ab10efdc1cc3e}
+      \strng{authorfullhash}{7c70bba69916f648362ab10efdc1cc3e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Medicine}
+      \field{month}{09}
+      \field{number}{3}
+      \field{title}{The Brief Symptom Inventory: An introductory report}
+      \field{volume}{13}
+      \field{year}{1983}
+      \field{pages}{595\bibrangedash 605}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/s0033291700048017
+      \endverb
+    \endentry
+    \entry{ENGEL1960}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb39babf87a11d94aebf801dd3e6b082}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Bernard\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Medical Association ({AMA})}%
+      }
+      \strng{namehash}{fb39babf87a11d94aebf801dd3e6b082}
+      \strng{fullhash}{fb39babf87a11d94aebf801dd3e6b082}
+      \strng{bibnamehash}{fb39babf87a11d94aebf801dd3e6b082}
+      \strng{authorbibnamehash}{fb39babf87a11d94aebf801dd3e6b082}
+      \strng{authornamehash}{fb39babf87a11d94aebf801dd3e6b082}
+      \strng{authorfullhash}{fb39babf87a11d94aebf801dd3e6b082}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of General Psychiatry}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Stimulus-response and individual-response specificity}
+      \field{volume}{2}
+      \field{year}{1960}
+      \field{pages}{305\bibrangedash 313}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1001/archpsyc.1960.03590090061010
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1001%2Farchpsyc.1960.03590090061010
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1001%2Farchpsyc.1960.03590090061010
+      \endverb
+    \endentry
+    \entry{GRILLON2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca1459c87b190e8dc289aafa57d212c0}{%
+           family={Grillon},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca1459c87b190e8dc289aafa57d212c0}
+      \strng{fullhash}{ca1459c87b190e8dc289aafa57d212c0}
+      \strng{bibnamehash}{ca1459c87b190e8dc289aafa57d212c0}
+      \strng{authorbibnamehash}{ca1459c87b190e8dc289aafa57d212c0}
+      \strng{authornamehash}{ca1459c87b190e8dc289aafa57d212c0}
+      \strng{authorfullhash}{ca1459c87b190e8dc289aafa57d212c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Psychiatry}
+      \field{number}{11}
+      \field{title}{Associative learning deficits increase symptoms of anxiety in humans}
+      \field{volume}{51}
+      \field{year}{2002}
+      \field{pages}{851\bibrangedash 858}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0006-3223(01)01370-1
+      \endverb
+      \keyw{classical conditioning,fear conditioning,context conditioning,startle,psychophysiology,anxiety}
+    \endentry
+    \entry{GRILLON2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f5f3c1ab86a94af40100eeac8171cf7}{%
+           family={Grillon},
+           familyi={G\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bbc8487320f3969531f42a8d40d6c4f}{%
+           family={Baas},
+           familyi={B\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \strng{fullhash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \strng{bibnamehash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \strng{authorbibnamehash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \strng{authornamehash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \strng{authorfullhash}{bda2cc31ce68c94739b3b72b6a00ddf3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Neurophysiology}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{A review of the modulation of the startle reflex by affective states and its application in psychiatry}
+      \field{volume}{114}
+      \field{year}{2003}
+      \field{pages}{1557\bibrangedash 1579}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/s1388-2457(03)00202-5
+      \endverb
+      \keyw{Startle reflex,Psychiatry,Emotion,Anxiety,Fear,Psychophysiology}
+    \endentry
+    \entry{GRIMM2017}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bafd556131ecebf002887a73125a45bd}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a322e9faecefbdeb5d16460754918f6}{%
+           family={Ram},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeedde06a178048d5963bef226319e01}{%
+           family={Estabrook},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {The Guilford Press}%
+      }
+      \strng{namehash}{862ccf22fd017ce55e4a35a4fd66eb49}
+      \strng{fullhash}{c1e4b600742c6f28cd8447eef6ae6872}
+      \strng{bibnamehash}{c1e4b600742c6f28cd8447eef6ae6872}
+      \strng{authorbibnamehash}{c1e4b600742c6f28cd8447eef6ae6872}
+      \strng{authornamehash}{862ccf22fd017ce55e4a35a4fd66eb49}
+      \strng{authorfullhash}{c1e4b600742c6f28cd8447eef6ae6872}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Growth modeling: Structural equation and multilevel modeling approaches}
+      \field{year}{2017}
+    \endentry
+    \entry{HAMM1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a7ede1e3ebe53df794a5b500613fb7d1}{%
+           family={Hamm},
+           familyi={H\bibinitperiod},
+           given={Alfons\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c145c43a0f3733b5e9c162998bf0b79}{%
+           family={Vaitl},
+           familyi={V\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{346055a63a7aac12252dcb90048a66c3}
+      \strng{fullhash}{346055a63a7aac12252dcb90048a66c3}
+      \strng{bibnamehash}{346055a63a7aac12252dcb90048a66c3}
+      \strng{authorbibnamehash}{346055a63a7aac12252dcb90048a66c3}
+      \strng{authornamehash}{346055a63a7aac12252dcb90048a66c3}
+      \strng{authorfullhash}{346055a63a7aac12252dcb90048a66c3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Affective learning: Awareness and aversion}
+      \field{volume}{33}
+      \field{year}{1996}
+      \field{pages}{698\bibrangedash 710}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.1996.tb02366.x
+      \endverb
+      \keyw{startle eyeblink,Skin conductance,fear conditioning,contingency learning,Awareness}
+    \endentry
+    \entry{HAMM2005}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a7ede1e3ebe53df794a5b500613fb7d1}{%
+           family={Hamm},
+           familyi={H\bibinitperiod},
+           given={Alfons\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cddb9b2f2d47e6c54655a126b6e4b40}{%
+           family={Weike},
+           familyi={W\bibinitperiod},
+           given={Almut\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \strng{fullhash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \strng{bibnamehash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \strng{authorbibnamehash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \strng{authornamehash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \strng{authorfullhash}{0a1b9f8600c83075f4c233dedcd414f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Psychophysiology}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{The neuropsychology of fear learning and fear regulation}
+      \field{volume}{57}
+      \field{year}{2005}
+      \field{pages}{5\bibrangedash 14}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.ijpsycho.2005.01.006
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.ijpsycho.2005.01.006
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.ijpsycho.2005.01.006
+      \endverb
+      \keyw{Fear conditioning,Startle potentiation,Amygdala,Awareness,Cortical blindness,Temporal lobectomy}
+    \endentry
+    \entry{HAMM2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7ede1e3ebe53df794a5b500613fb7d1}{%
+           family={Hamm},
+           familyi={H\bibinitperiod},
+           given={Alfons\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cddb9b2f2d47e6c54655a126b6e4b40}{%
+           family={Weike},
+           familyi={W\bibinitperiod},
+           given={Almut\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71fe5429537dc9db153739db4cf742e8}{%
+           family={Melzig},
+           familyi={M\bibinitperiod},
+           given={Christiane\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{734b2b225b543a711b717ea4eaa821be}
+      \strng{fullhash}{c98462743819b53d4f159227e32ef7c0}
+      \strng{bibnamehash}{c98462743819b53d4f159227e32ef7c0}
+      \strng{authorbibnamehash}{c98462743819b53d4f159227e32ef7c0}
+      \strng{authornamehash}{734b2b225b543a711b717ea4eaa821be}
+      \strng{authorfullhash}{c98462743819b53d4f159227e32ef7c0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychologische Rundschau}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Wenn Furcht und Angst entgleisen: Zur Pathologie des menschlichen Defensivsystems}
+      \field{volume}{57}
+      \field{year}{2006}
+      \field{pages}{154\bibrangedash 164}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1026/0033-3042.57.3.154
+      \endverb
+      \keyw{Fear,defense,attention,panic disorder,startle response}
+    \endentry
+    \entry{HITCHCOCK1986}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=613258e7b6ae95693b97d763546da079}{%
+           family={Hitchcock},
+           familyi={H\bibinitperiod},
+           given={Janice},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c089f435be08225365f7e6c5f42526e}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{fullhash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{bibnamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authorbibnamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authornamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authorfullhash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Neuroscience}
+      \field{number}{1}
+      \field{title}{Lesions of the amygdala, but not of the cerebellum or red nucleus, block conditioned fear as measured with the potentiated startle paradigm}
+      \field{volume}{100}
+      \field{year}{1986}
+      \field{pages}{11\bibrangedash 22}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1037/0735-7044.100.1.11
+      \endverb
+    \endentry
+    \entry{HITCHCOCK1987}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=613258e7b6ae95693b97d763546da079}{%
+           family={Hitchcock},
+           familyi={H\bibinitperiod},
+           given={Janice},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c089f435be08225365f7e6c5f42526e}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{fullhash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{bibnamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authorbibnamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authornamehash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \strng{authorfullhash}{5bfc009b4df2a2c2c2fc3965b4ce603c}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiology {\&} Behavior}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{Fear-potentiated startle using an auditory conditioned stimulus: Effect of lesions of the amygdala}
+      \field{volume}{39}
+      \field{year}{1987}
+      \field{pages}{403\bibrangedash 408}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/0031-9384(87)90242-3
+      \endverb
+    \endentry
+    \entry{HOX2018}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe9cd21f28a4e4ca45a4f66cf7be9720}{%
+           family={Hox},
+           familyi={H\bibinitperiod},
+           given={Joop\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1704a74a060b6552f2deb20d834090d3}{%
+           family={Moerbeek},
+           familyi={M\bibinitperiod},
+           given={Mirjam},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=981db85b77aa7e175cb27cd9fa7ea5dd}{%
+           family={Schoot},
+           familyi={S\bibinitperiod},
+           given={Rens},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{852762a2b14af47b97f1963c6c89f0eb}
+      \strng{fullhash}{4156ac12232f02326bd8184e8a3cd989}
+      \strng{bibnamehash}{4156ac12232f02326bd8184e8a3cd989}
+      \strng{authorbibnamehash}{4156ac12232f02326bd8184e8a3cd989}
+      \strng{authornamehash}{852762a2b14af47b97f1963c6c89f0eb}
+      \strng{authorfullhash}{4156ac12232f02326bd8184e8a3cd989}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Multilevel analysis: Techniques and applications}
+      \field{year}{2018}
+    \endentry
+    \entry{KIESEL2012}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f8e5eef86ebd638d21581234aab47ffb}{%
+           family={Kiesel},
+           familyi={K\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03284a26826d3cb912800a97795ffb61}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Iring},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \strng{fullhash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \strng{bibnamehash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \strng{authorbibnamehash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \strng{authornamehash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \strng{authorfullhash}{43cfe35c47f6d4293ee496689f3ba2c3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{series}{Basiswissen Psychologie}
+      \field{title}{Lernen: Grundlagen der Lernpsychologie}
+      \field{year}{2012}
+    \endentry
+    \entry{KNIGHT2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd6da14732996c941acecc80af8ac259}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9583400a217f3b3b4b306332f50a6fbf}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={H.\bibnamedelimi T.},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2180c04890f856e0ea49d99bc578b469}{%
+           family={Bandettini},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d3ed707226041b07f0b6dd4afe39833a}
+      \strng{fullhash}{0fb848cbcc1467751fe0a1a48f6b2f60}
+      \strng{bibnamehash}{0fb848cbcc1467751fe0a1a48f6b2f60}
+      \strng{authorbibnamehash}{0fb848cbcc1467751fe0a1a48f6b2f60}
+      \strng{authornamehash}{d3ed707226041b07f0b6dd4afe39833a}
+      \strng{authorfullhash}{0fb848cbcc1467751fe0a1a48f6b2f60}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{Expression of conditional fear with and without awareness}
+      \field{volume}{100}
+      \field{year}{2003}
+      \field{pages}{15280\bibrangedash 15283}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1073/pnas.2535780100
+      \endverb
+    \endentry
+    \entry{KRISTJANSSON2007}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=01f74841705caacf311b019a8d129bd6}{%
+           family={Kristjansson},
+           familyi={K\bibinitperiod},
+           given={Sean\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57a2feee676fda56652f35d3e3eb25d2}{%
+           family={Kircher},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d5f4fb3ce987fcfb5cc5168789cee72}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Andrea\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4fccf80ebbb8dd5f5942a48bd5b99b6}
+      \strng{fullhash}{688a87008afc3138e15becd8bbe3a814}
+      \strng{bibnamehash}{688a87008afc3138e15becd8bbe3a814}
+      \strng{authorbibnamehash}{688a87008afc3138e15becd8bbe3a814}
+      \strng{authornamehash}{a4fccf80ebbb8dd5f5942a48bd5b99b6}
+      \strng{authorfullhash}{688a87008afc3138e15becd8bbe3a814}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{10}
+      \field{title}{Multilevel models for repeated measures research designs in psychophysiology: An introduction to growth curve modeling}
+      \field{volume}{44}
+      \field{year}{2007}
+      \field{pages}{728\bibrangedash 736}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.2007.00544.x
+      \endverb
+      \keyw{Multilevel models,Growth curve models,Repeated measures analysis of variance,Multivariate analysis of variance,Random effects,Nomothetic,Idiographic}
+    \endentry
+    \entry{LACEY1958}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=6dd7cea89698dc9dddb78bed6d1b1486}{%
+           family={Lacey},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=1830b8be2ee63bdd555f2400100a066d}{%
+           family={Lacey},
+           familyi={L\bibinitperiod},
+           given={Beatrice\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{3b8482b00228ea9f625abf943fa186fb}
+      \strng{fullhash}{3b8482b00228ea9f625abf943fa186fb}
+      \strng{bibnamehash}{3b8482b00228ea9f625abf943fa186fb}
+      \strng{authorbibnamehash}{3b8482b00228ea9f625abf943fa186fb}
+      \strng{authornamehash}{3b8482b00228ea9f625abf943fa186fb}
+      \strng{authorfullhash}{3b8482b00228ea9f625abf943fa186fb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Journal of Psychology}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{Verification and extension of the principle of autonomic response-stereotypy}
+      \field{volume}{71}
+      \field{year}{1958}
+      \field{pages}{50}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/1419197
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2307%2F1419197
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2307%2F1419197
+      \endverb
+    \endentry
+    \entry{LANDIS1939}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=674408c77e48a2896ee577c02fba1df9}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=321478eca3f0793eca9eaaef99fb022a}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={W.A.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Farrar \& Rinehart}%
+      }
+      \strng{namehash}{640b6420dc631890e09d8ae8466ad380}
+      \strng{fullhash}{640b6420dc631890e09d8ae8466ad380}
+      \strng{bibnamehash}{640b6420dc631890e09d8ae8466ad380}
+      \strng{authorbibnamehash}{640b6420dc631890e09d8ae8466ad380}
+      \strng{authornamehash}{640b6420dc631890e09d8ae8466ad380}
+      \strng{authorfullhash}{640b6420dc631890e09d8ae8466ad380}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The startle pattern}
+      \field{year}{1939}
+    \endentry
+    \entry{LANG1995}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83afdc8aa8ffb1b3f2a4f55ea065d03d}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \strng{fullhash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \strng{bibnamehash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \strng{authorbibnamehash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \strng{authornamehash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \strng{authorfullhash}{83afdc8aa8ffb1b3f2a4f55ea065d03d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{The emotion probe: Studies of motivation and attention}
+      \field{volume}{50}
+      \field{year}{1995}
+      \field{pages}{372\bibrangedash 385}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1037/0003-066x.50.5.372
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037%2F0003-066x.50.5.372
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037%2F0003-066x.50.5.372
+      \endverb
+    \endentry
+    \entry{LANG1990}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=83afdc8aa8ffb1b3f2a4f55ea065d03d}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dbb474aab518a60ef996c0d75ec6fc}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957265cec1df1530d912fa9e4ad0df95}{%
+           family={Cuthbert},
+           familyi={C\bibinitperiod},
+           given={Bruce\bibnamedelima N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8863b2fc95d87a7c5e86fec4302e047}
+      \strng{fullhash}{cbb2d09ab9498d68ce7f670defa827c5}
+      \strng{bibnamehash}{cbb2d09ab9498d68ce7f670defa827c5}
+      \strng{authorbibnamehash}{cbb2d09ab9498d68ce7f670defa827c5}
+      \strng{authornamehash}{e8863b2fc95d87a7c5e86fec4302e047}
+      \strng{authorfullhash}{cbb2d09ab9498d68ce7f670defa827c5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Emotion, attention, and the startle reflex}
+      \field{volume}{97}
+      \field{year}{1990}
+      \field{pages}{377\bibrangedash 395}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1037/0033-295x.97.3.377
+      \endverb
+    \endentry
+    \entry{STAI}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2a6158eff31c310eb7b8ae23288de84d}{%
+           family={Laux},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff316dc14bb400ba3dbed42564f7f932}{%
+           family={Glanzmann},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=866780e292b9db7e6949180dbc2195e9}{%
+           family={Schaffner},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d41a820690267f73f2e5e21d035ee9dd}{%
+           family={Spielberger},
+           familyi={S\bibinitperiod},
+           given={C.D.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim}%
+      }
+      \list{publisher}{1}{%
+        {Beltz Testgesellschaft}%
+      }
+      \strng{namehash}{3640f4921cd11260da4c8dae63b693f6}
+      \strng{fullhash}{0eeb8200d634bc81d5e86278fbb18068}
+      \strng{bibnamehash}{0eeb8200d634bc81d5e86278fbb18068}
+      \strng{authorbibnamehash}{0eeb8200d634bc81d5e86278fbb18068}
+      \strng{authornamehash}{3640f4921cd11260da4c8dae63b693f6}
+      \strng{authorfullhash}{0eeb8200d634bc81d5e86278fbb18068}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das State-Trait-Angstinventar (STAI): Theoretische Grundlagen und Handanweisung}
+      \field{year}{1981}
+    \endentry
+    \entry{LEDOUX1996}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9677854dee29e7e4d1f6edbf634fce7}{%
+           family={LeDoux},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \strng{fullhash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \strng{bibnamehash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \strng{authorbibnamehash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \strng{authornamehash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \strng{authorfullhash}{e9677854dee29e7e4d1f6edbf634fce7}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The emotional brain}
+      \field{year}{1996}
+    \endentry
+    \entry{LEDOUX2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=245fc4a69106c51e51ae31735c91a4ec}{%
+           family={LeDoux},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{245fc4a69106c51e51ae31735c91a4ec}
+      \strng{fullhash}{245fc4a69106c51e51ae31735c91a4ec}
+      \strng{bibnamehash}{245fc4a69106c51e51ae31735c91a4ec}
+      \strng{authorbibnamehash}{245fc4a69106c51e51ae31735c91a4ec}
+      \strng{authornamehash}{245fc4a69106c51e51ae31735c91a4ec}
+      \strng{authorfullhash}{245fc4a69106c51e51ae31735c91a4ec}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cellular and Molecular Neurobiology}
+      \field{month}{10}
+      \field{title}{The emotional brain, fear, and the amygdala}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{pages}{727\bibrangedash 738}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1023/a:1025048802629
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1023%2Fa%3A1025048802629
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1023%2Fa%3A1025048802629
+      \endverb
+      \keyw{emotion,amygdala,limbio system,fear}
+    \endentry
+    \entry{LEUCHS2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6a28dc2b7a3168f0b4af40b7e9b9c3f4}{%
+           family={Leuchs},
+           familyi={L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e75c01abb2bf961a378e2dfe263941f1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6c8b3cd331a46cdf70cb0eb2ccc181a}{%
+           family={Spoormaker},
+           familyi={S\bibinitperiod},
+           given={Victor\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{9911ad2962949d9f851ceebc73ab4411}
+      \strng{fullhash}{307ca670382f23e0c646bb23d1716213}
+      \strng{bibnamehash}{307ca670382f23e0c646bb23d1716213}
+      \strng{authorbibnamehash}{307ca670382f23e0c646bb23d1716213}
+      \strng{authornamehash}{9911ad2962949d9f851ceebc73ab4411}
+      \strng{authorfullhash}{307ca670382f23e0c646bb23d1716213}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{09}
+      \field{title}{Measuring the conditioned response: A comparison of pupillometry, skin conductance, and startle electromyography}
+      \field{volume}{56}
+      \field{year}{2019}
+      \field{pages}{e13283}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/psyp.13283
+      \endverb
+      \keyw{extinction,fear conditioning,pupillometry,recall,skin conductance,startle blink}
+    \endentry
+    \entry{LIPP2006}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06a6239b7078c314beb46be97dea60f2}{%
+           family={Lipp},
+           familyi={L\bibinitperiod},
+           given={O.\bibnamedelimi V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=92753b365046bbc1b280f4f33fab4ddb}{%
+           family={Craske},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1064574c7d390c4596529615b3517980}{%
+           family={Hermans},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=861de3e661079f9b79d473b58fd57600}{%
+           family={Vansteenwegen},
+           familyi={V\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{fullhash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{bibnamehash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{authorbibnamehash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{authornamehash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{authorfullhash}{06a6239b7078c314beb46be97dea60f2}
+      \strng{editorbibnamehash}{7c6a454c91c6fbb77aa714aa51e14c3e}
+      \strng{editornamehash}{a2a7b213e65fd8a71abb4d0ec8ea5ece}
+      \strng{editorfullhash}{7c6a454c91c6fbb77aa714aa51e14c3e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fear and learning: From basic processes to clinical implications}
+      \field{title}{Human fear learning: Contemporary procedures and measurement}
+      \field{year}{2006}
+      \field{pages}{37\bibrangedash 51}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1037/11474-002
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037%2F11474-002
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037%2F11474-002
+      \endverb
+    \endentry
+    \entry{LISSEK2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7d1ac7942c7cd97454c2e72964a5ae05}{%
+           family={Lissek},
+           familyi={L\bibinitperiod},
+           given={Shmuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494b55fbea3ea52d2c910b504f097520}{%
+           family={Pine},
+           familyi={P\bibinitperiod},
+           given={Daniel\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f5f3c1ab86a94af40100eeac8171cf7}{%
+           family={Grillon},
+           familyi={G\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{8d4ee2675b8ea053d93aeae295dc79ec}
+      \strng{fullhash}{85a32f1ba678644f5833c9b232d54f96}
+      \strng{bibnamehash}{85a32f1ba678644f5833c9b232d54f96}
+      \strng{authorbibnamehash}{85a32f1ba678644f5833c9b232d54f96}
+      \strng{authornamehash}{8d4ee2675b8ea053d93aeae295dc79ec}
+      \strng{authorfullhash}{85a32f1ba678644f5833c9b232d54f96}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Psychology}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{The strong situation: A potential impediment to studying the psychobiology and pharmacology of anxiety disorders}
+      \field{volume}{72}
+      \field{year}{2006}
+      \field{pages}{265\bibrangedash 270}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.biopsycho.2005.11.004
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.biopsycho.2005.11.004
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.biopsycho.2005.11.004
+      \endverb
+      \keyw{Anxiety disorders,Fear-induction,Psychophysiology,Psychopharmacology,Strong situation}
+    \endentry
+    \entry{LONSDORF2017fc}{article}{}
+      \name{author}{23}{}{%
+        {{un=0,uniquepart=base,hash=6e6bb0d99da41081b1979b38e03371d6}{%
+           family={Lonsdorf},
+           familyi={L\bibinitperiod},
+           given={Tina\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=767e945d88d562ee285570c01ad66489}{%
+           family={Menz},
+           familyi={M\bibinitperiod},
+           given={Mareike\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bfedc3aa4200ea5d04e22519a27dd73}{%
+           family={Andreatta},
+           familyi={A\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8972f2ad71cbd19a824728b2a55d4cd}{%
+           family={Fullana},
+           familyi={F\bibinitperiod},
+           given={Miguel\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e84e831414e44093454c373e592c9a3}{%
+           family={Golkar},
+           familyi={G\bibinitperiod},
+           given={Armita},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=434931eb6b83434694fda50f3bf3a092}{%
+           family={Haaker},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1157aee9f672d1b7e366fe2f1a29a88}{%
+           family={Heitland},
+           familyi={H\bibinitperiod},
+           given={Ivo},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42e75bb75f23c36dd81fefdc2b99923a}{%
+           family={Hermann},
+           familyi={H\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ace17651c5c6e764b9f81f0145dc276a}{%
+           family={Kuhn},
+           familyi={K\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b24b62c37ee1e7fa64a0ef2797556734}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Onno},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1128df45ba969da84069d82a0fb4cb40}{%
+           family={{Meir Drexler}},
+           familyi={M\bibinitperiod},
+           given={Shira},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c6ee8e510e3f4570c7a982bdb2c99f3}{%
+           family={Meulders},
+           familyi={M\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4dacd16df425588628309a60171dcb}{%
+           family={Nees},
+           familyi={N\bibinitperiod},
+           given={Frauke},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c13cad34df300b2f6fa9577f25700f21}{%
+           family={Pittig},
+           familyi={P\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b38181d397dc7a910fb752ebd2993b4}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38629982a65e2e4797dbcb3c64bc5141}{%
+           family={Römer},
+           familyi={R\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a7940511f585461ba8eca8eda4c2f9b}{%
+           family={Shiban},
+           familyi={S\bibinitperiod},
+           given={Youssef},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62347ecf988820db785e673aaf10b5d2}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff1c8ea4d6e0c447d145c12a833cf136}{%
+           family={Straube},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e96333d49644b722747eaab325c8b9c4}{%
+           family={Vervliet},
+           familyi={V\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdb0011992775d41809dc28a6a5bf9f2}{%
+           family={Wendt},
+           familyi={W\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6552a718aed2dc9523579d88ffe1a95}{%
+           family={Baas},
+           familyi={B\bibinitperiod},
+           given={Johanna\bibnamedelima M.P.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73725b368b982d4cc23e58f4acfbf2dd}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Christian\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24913686ca4e3f8c588947be8b4ef54e}
+      \strng{fullhash}{1545dbed97515eed4a5fb12e3195c5ff}
+      \strng{bibnamehash}{4ce70d304d897c06538772e71975c82c}
+      \strng{authorbibnamehash}{4ce70d304d897c06538772e71975c82c}
+      \strng{authornamehash}{24913686ca4e3f8c588947be8b4ef54e}
+      \strng{authorfullhash}{1545dbed97515eed4a5fb12e3195c5ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The so-called `replicability crisis' has sparked methodological discussions in many areas of science in general, and in psychology in particular. This has led to recent endeavours to promote the transparency, rigour, and ultimately, replicability of research. Originating from this zeitgeist, the challenge to discuss critical issues on terminology, design, methods, and analysis considerations in fear conditioning research is taken up by this work, which involved representatives from fourteen of the major human fear conditioning laboratories in Europe. This compendium is intended to provide a basis for the development of a common procedural and terminology framework for the field of human fear conditioning. Whenever possible, we give general recommendations. When this is not feasible, we provide evidence-based guidance for methodological decisions on study design, outcome measures, and analyses. Importantly, this work is also intended to raise awareness and initiate discussions on crucial questions with respect to data collection, processing, statistical analyses, the impact of subtle procedural changes, and data reporting specifically tailored to the research on fear conditioning.}
+      \field{issn}{0149-7634}
+      \field{journaltitle}{Neuroscience \& Biobehavioral Reviews}
+      \field{title}{Don't fear `fear conditioning': Methodological considerations for the design and analysis of studies on human fear acquisition, extinction, and return of fear}
+      \field{volume}{77}
+      \field{year}{2017}
+      \field{pages}{247\bibrangedash 285}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/j.neubiorev.2017.02.026
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0149763416308466
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0149763416308466
+      \endverb
+      \keyw{Replicability crisis,Methods,Conditioning,Extinction,Return of fear,Individual differences,Statistics,Design,Methods,Terminology}
+    \endentry
+    \entry{LOVIBOND2006}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71d122d75fb5aafda584699f7bb47bc6}{%
+           family={Lovibond},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=92753b365046bbc1b280f4f33fab4ddb}{%
+           family={Craske},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1064574c7d390c4596529615b3517980}{%
+           family={Hermans},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=861de3e661079f9b79d473b58fd57600}{%
+           family={Vansteenwegen},
+           familyi={V\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{fullhash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{bibnamehash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{authorbibnamehash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{authornamehash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{authorfullhash}{71d122d75fb5aafda584699f7bb47bc6}
+      \strng{editorbibnamehash}{7c6a454c91c6fbb77aa714aa51e14c3e}
+      \strng{editornamehash}{a2a7b213e65fd8a71abb4d0ec8ea5ece}
+      \strng{editorfullhash}{7c6a454c91c6fbb77aa714aa51e14c3e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fear and learning: From basic processes to clinical implications}
+      \field{title}{Fear and avoidance: An integrated expectancy model}
+      \field{year}{2006}
+      \field{pages}{117\bibrangedash 132}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1037/11474-006
+      \endverb
+    \endentry
+    \entry{LOVIBOND2002}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2a101945fe5a1ba7e613d2e2d9b7c3b3}{%
+           family={Lovibond},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90af7950b1e39366bd9e471daf89e98b}{%
+           family={Shanks},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{125b9a456b5ef1610c02aab347c63b2d}
+      \strng{fullhash}{125b9a456b5ef1610c02aab347c63b2d}
+      \strng{bibnamehash}{125b9a456b5ef1610c02aab347c63b2d}
+      \strng{authorbibnamehash}{125b9a456b5ef1610c02aab347c63b2d}
+      \strng{authornamehash}{125b9a456b5ef1610c02aab347c63b2d}
+      \strng{authorfullhash}{125b9a456b5ef1610c02aab347c63b2d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Behavior Processes}
+      \field{number}{1}
+      \field{title}{The role of awareness in Pavlovian conditioning: Empirical evidence and theoretical implications}
+      \field{volume}{28}
+      \field{year}{2002}
+      \field{pages}{3\bibrangedash 26}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1037/0097-7403.28.1.3
+      \endverb
+    \endentry
+    \entry{LUCK2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=13fe8cfa5aaae78ded119a894d70dca6}{%
+           family={Luck},
+           familyi={L\bibinitperiod},
+           given={Camilla\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2026a218bee4bc3de0ea46b7af7eab75}{%
+           family={Lipp},
+           familyi={L\bibinitperiod},
+           given={Ottmar\bibnamedelima V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f0c47904aaf03563b9afef0d335f609}
+      \strng{fullhash}{2f0c47904aaf03563b9afef0d335f609}
+      \strng{bibnamehash}{2f0c47904aaf03563b9afef0d335f609}
+      \strng{authorbibnamehash}{2f0c47904aaf03563b9afef0d335f609}
+      \strng{authornamehash}{2f0c47904aaf03563b9afef0d335f609}
+      \strng{authorfullhash}{2f0c47904aaf03563b9afef0d335f609}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian Journal of Psychology}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Instructed extinction in human fear conditioning: History, recent developments, and future directions}
+      \field{volume}{68}
+      \field{year}{2016}
+      \field{pages}{209\bibrangedash 227}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/ajpy.12135
+      \endverb
+      \keyw{anxiety,cognitive interventions,fear conditioning,instructed extinction,return of fear}
+    \endentry
+    \entry{MAAS2004}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=15d2a522975872acc9a63d6297b891f2}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Cora\bibnamedelima J.M.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe9cd21f28a4e4ca45a4f66cf7be9720}{%
+           family={Hox},
+           familyi={H\bibinitperiod},
+           given={Joop\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{ba7400db56b9f414b207afdac7687d42}
+      \strng{fullhash}{ba7400db56b9f414b207afdac7687d42}
+      \strng{bibnamehash}{ba7400db56b9f414b207afdac7687d42}
+      \strng{authorbibnamehash}{ba7400db56b9f414b207afdac7687d42}
+      \strng{authornamehash}{ba7400db56b9f414b207afdac7687d42}
+      \strng{authorfullhash}{ba7400db56b9f414b207afdac7687d42}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Statistics {\&} Data Analysis}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{The influence of violations of assumptions on multilevel parameter estimates and their standard errors}
+      \field{volume}{46}
+      \field{year}{2004}
+      \field{pages}{427\bibrangedash 440}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.csda.2003.08.006
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.csda.2003.08.006
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.csda.2003.08.006
+      \endverb
+    \endentry
+    \entry{MACCALLUM1997}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9b143ccd409aa82ed7358bb1002eb0f1}{%
+           family={MacCallum},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=808406593c36c56010fc8316f531345a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Cheongtag},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6f62e401cf1644094e840a3d4db29cf}{%
+           family={Malarkey},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63c5de9d3e92727ac9199b3d59c68943}{%
+           family={Kiecolt-Glaser},
+           familyi={K\bibinithyphendelim G\bibinitperiod},
+           given={Janice\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a56236eac1dd4b0524582b1c1ab4965c}
+      \strng{fullhash}{aeddafa4666faefd428457ebc11bcfe4}
+      \strng{bibnamehash}{aeddafa4666faefd428457ebc11bcfe4}
+      \strng{authorbibnamehash}{aeddafa4666faefd428457ebc11bcfe4}
+      \strng{authornamehash}{a56236eac1dd4b0524582b1c1ab4965c}
+      \strng{authorfullhash}{aeddafa4666faefd428457ebc11bcfe4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Multivariate Behavioral Research}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Studying multivariate change using multilevel models and latent curve models}
+      \field{volume}{32}
+      \field{year}{1997}
+      \field{pages}{215\bibrangedash 253}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1207/s15327906mbr3203_1
+      \endverb
+    \endentry
+    \entry{MATLAB}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f6823abd383a341f0d78ef38829bbbb}{%
+           family={MATLAB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Natick, Massachusetts, USA}%
+      }
+      \list{publisher}{1}{%
+        {The MathWorks Inc.}%
+      }
+      \strng{namehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{fullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{bibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorbibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authornamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorfullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Version 9.9 (R2020b)}
+      \field{year}{2020}
+    \endentry
+    \entry{MATUSCHEK2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=58cb4ac9bda8a43ea25b0b6608f6cc55}{%
+           family={Matuschek},
+           familyi={M\bibinitperiod},
+           given={Hannes},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad39a5326110abac1ef6f23d87230908}{%
+           family={Kliegl},
+           familyi={K\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb56042649dd26abf6ac80120255ef2d}{%
+           family={Vasishth},
+           familyi={V\bibinitperiod},
+           given={Shravan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64bc4fd27d01d17c571719d87a8ad9df}{%
+           family={Baayen},
+           familyi={B\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=291c4bc67cf41a2019405a2328a9b75e}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{89d8680ab855ecc2f82b0127dfa00cf8}
+      \strng{fullhash}{94fd851df3b84ac740f6a4be5321c474}
+      \strng{bibnamehash}{94fd851df3b84ac740f6a4be5321c474}
+      \strng{authorbibnamehash}{94fd851df3b84ac740f6a4be5321c474}
+      \strng{authornamehash}{89d8680ab855ecc2f82b0127dfa00cf8}
+      \strng{authorfullhash}{94fd851df3b84ac740f6a4be5321c474}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{month}{06}
+      \field{title}{Balancing Type I error and power in linear mixed models}
+      \field{volume}{94}
+      \field{year}{2017}
+      \field{pages}{305\bibrangedash 315}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jml.2017.01.001
+      \endverb
+      \keyw{power,linear mixed effect model,hypothesis testing}
+    \endentry
+    \entry{MERTENS2018a}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8f6a1cf51e4c25c118433846a5fd1280}{%
+           family={Mertens},
+           familyi={M\bibinitperiod},
+           given={Gaëtan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11e41453418bb96bb369762610627f1}{%
+           family={Boddez},
+           familyi={B\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bff4872a68829ce055794989f1d6127c}{%
+           family={Sevenster},
+           familyi={S\bibinitperiod},
+           given={Dieuwke},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70b6c508a4ab5afc50ab5b641db6c0ba}{%
+           family={Engelhard},
+           familyi={E\bibinitperiod},
+           given={Iris\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0d5f8057b2386ab5cd4aa538a9532ff}{%
+           family={Houwer},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima De},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52a4090ad014cf71977d809d8c7c10cb}
+      \strng{fullhash}{222cfa14406d378dbc6ff08e1ebc168b}
+      \strng{bibnamehash}{222cfa14406d378dbc6ff08e1ebc168b}
+      \strng{authorbibnamehash}{222cfa14406d378dbc6ff08e1ebc168b}
+      \strng{authornamehash}{52a4090ad014cf71977d809d8c7c10cb}
+      \strng{authorfullhash}{222cfa14406d378dbc6ff08e1ebc168b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Psychology}
+      \field{month}{07}
+      \field{title}{A review on the effects of verbal instructions in human fear conditioning: Empirical findings, theoretical considerations, and future directions}
+      \field{volume}{137}
+      \field{year}{2018}
+      \field{pages}{49\bibrangedash 64}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.biopsycho.2018.07.002
+      \endverb
+      \keyw{Instructions,Learning,Fear,Conditioning}
+    \endentry
+    \entry{MERTENS2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f6a1cf51e4c25c118433846a5fd1280}{%
+           family={Mertens},
+           familyi={M\bibinitperiod},
+           given={Gaëtan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70b6c508a4ab5afc50ab5b641db6c0ba}{%
+           family={Engelhard},
+           familyi={E\bibinitperiod},
+           given={Iris\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{2c871923cbc22cb064ea5076050afff4}
+      \strng{fullhash}{2c871923cbc22cb064ea5076050afff4}
+      \strng{bibnamehash}{2c871923cbc22cb064ea5076050afff4}
+      \strng{authorbibnamehash}{2c871923cbc22cb064ea5076050afff4}
+      \strng{authornamehash}{2c871923cbc22cb064ea5076050afff4}
+      \strng{authorfullhash}{2c871923cbc22cb064ea5076050afff4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroscience {\&} Biobehavioral Reviews}
+      \field{month}{01}
+      \field{title}{A systematic review and meta-analysis of the evidence for unaware fear conditioning}
+      \field{volume}{108}
+      \field{year}{2020}
+      \field{pages}{254\bibrangedash 268}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.neubiorev.2019.11.012
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.neubiorev.2019.11.012
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.neubiorev.2019.11.012
+      \endverb
+    \endentry
+    \entry{MERZ2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=73725b368b982d4cc23e58f4acfbf2dd}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Christian\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e6bb0d99da41081b1979b38e03371d6}{%
+           family={Lonsdorf},
+           familyi={L\bibinitperiod},
+           given={Tina\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \strng{fullhash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \strng{bibnamehash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \strng{authorbibnamehash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \strng{authornamehash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \strng{authorfullhash}{bbce93f6bdf8a36e062c450bf245e4b3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychologische Rundschau}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Methodische Anmerkungen und Anwendungsbereiche der Furchtkonditionierung in verschiedenen psychologischen Disziplinen}
+      \field{volume}{71}
+      \field{year}{2020}
+      \field{pages}{273\bibrangedash 287}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1026/0033-3042/a000427
+      \endverb
+      \keyw{extinction,fear acquisition,individual differences,clinical implications,methodological considerations}
+    \endentry
+    \entry{METEYARD2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a6c3d4e2420a972c959423c8b933d97d}{%
+           family={Meteyard},
+           familyi={M\bibinitperiod},
+           given={Lotte},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1fb419cbabf8d1557c68a091caaae90}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima A.I.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{e115b125124a11d91c9c6a38757b7966}
+      \strng{fullhash}{e115b125124a11d91c9c6a38757b7966}
+      \strng{bibnamehash}{e115b125124a11d91c9c6a38757b7966}
+      \strng{authorbibnamehash}{e115b125124a11d91c9c6a38757b7966}
+      \strng{authornamehash}{e115b125124a11d91c9c6a38757b7966}
+      \strng{authorfullhash}{e115b125124a11d91c9c6a38757b7966}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{month}{07}
+      \field{title}{Best practice guidance for linear mixed-effects models in psychological science}
+      \field{volume}{112}
+      \field{year}{2020}
+      \field{pages}{104092}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jml.2020.104092
+      \endverb
+      \keyw{Linear mixed effects models,Hierarchical models,Multilevel models}
+    \endentry
+    \entry{MINEKA2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3113f73e000e46a84a639647945f54cf}{%
+           family={Mineka},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e33de4c3d39e6ef55d5142201903250a}{%
+           family={Oehlberg},
+           familyi={O\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \strng{fullhash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \strng{bibnamehash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \strng{authorbibnamehash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \strng{authornamehash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \strng{authorfullhash}{6fb649cbd1d4f2a7d314cc87a8f7bbe2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Psychologica}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{The relevance of recent developments in classical conditioning to understanding the etiology and maintenance of anxiety disorders}
+      \field{volume}{127}
+      \field{year}{2008}
+      \field{pages}{567\bibrangedash 580}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.actpsy.2007.11.007
+      \endverb
+      \keyw{Fear learning,Anxiety learning,Contextual learning,Anxiety disorders,Diathesis--stress models,Classical conditioning,Individual differences}
+    \endentry
+    \entry{MITCHELL2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e751f8ffa15bb00850279882f3123da3}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0d5f8057b2386ab5cd4aa538a9532ff}{%
+           family={Houwer},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima De},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a101945fe5a1ba7e613d2e2d9b7c3b3}{%
+           family={Lovibond},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0816c88d256d347394c8b6188ccd938f}
+      \strng{fullhash}{2d48bd54cc6e9bf8f9d788d258510192}
+      \strng{bibnamehash}{2d48bd54cc6e9bf8f9d788d258510192}
+      \strng{authorbibnamehash}{2d48bd54cc6e9bf8f9d788d258510192}
+      \strng{authornamehash}{0816c88d256d347394c8b6188ccd938f}
+      \strng{authorfullhash}{2d48bd54cc6e9bf8f9d788d258510192}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral and Brain Sciences}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{The propositional nature of human associative learning}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{183\bibrangedash 198}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1017/s0140525x09000855
+      \endverb
+      \keyw{association,associative link,automatic,awareness,conditioning,controlled,dual-system,human associative learning,propositional}
+    \endentry
+    \entry{NEY2018}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b36157a34091bd83977c8c9b878a4488}{%
+           family={Ney},
+           familyi={N\bibinitperiod},
+           given={Luke\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdf87c97c727a3b4036df38fd207527b}{%
+           family={Wade},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21ce0a8ec94d0e57921b3bd6f53b2b7a}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42ce594e522a8b3cc565207c1522412b}{%
+           family={Zuj},
+           familyi={Z\bibinitperiod},
+           given={Daniel\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6448284b121986338126a450ca4d662}{%
+           family={Dymond},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fe5d15936359ae8e87429ca42763553}{%
+           family={Matthews},
+           familyi={M\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f04c3eba9843c47d8d176d2ccdc19b5a}{%
+           family={Felmingham},
+           familyi={F\bibinitperiod},
+           given={K.L.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{128ff9deead53b9862476b5e236c2571}
+      \strng{fullhash}{e9e09f0a1e1b2ddc28441b83da868781}
+      \strng{bibnamehash}{e9e09f0a1e1b2ddc28441b83da868781}
+      \strng{authorbibnamehash}{e9e09f0a1e1b2ddc28441b83da868781}
+      \strng{authornamehash}{128ff9deead53b9862476b5e236c2571}
+      \strng{authorfullhash}{e9e09f0a1e1b2ddc28441b83da868781}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Psychophysiology}
+      \field{month}{10}
+      \field{title}{Critical evaluation of current data analysis strategies for psychophysiological measures of fear conditioning and extinction in humans}
+      \field{volume}{134}
+      \field{year}{2018}
+      \field{pages}{95\bibrangedash 107}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.ijpsycho.2018.10.010
+      \endverb
+      \keyw{Fear learning,Extinction,Methods,Data analysis,Return of fear,Replicability crisis,Conditioning,Skin conductance response,Physiological responding}
+    \endentry
+    \entry{NEZLEK2012}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=deb55580db39e8dc94d6ab777b11e67f}{%
+           family={Nezlek},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=5c2c119052a5274b153f0090e3041c2c}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2398a84257159c479b3cfd454f701c72}{%
+           family={Camic},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cec18e1e6a0880ed0140f42413846bc3}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3c582902d1ffbc2f7d6701573b86e584}{%
+           family={Panter},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=0b0bfe310b6de3e1261dd4489fd9f986}{%
+           family={Rindskopf},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dd736fcfbe0223b3445345e94f890073}{%
+           family={Sher},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{fullhash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{bibnamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authorbibnamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authornamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authorfullhash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{editorbibnamehash}{aa93532ed43ce4bcc79e8bbd47cd9439}
+      \strng{editornamehash}{3435128012cf472933ee01c1a685f497}
+      \strng{editorfullhash}{aa93532ed43ce4bcc79e8bbd47cd9439}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{APA} handbook of research methods in psychology, Vol. 3. Data analysis and research publication}
+      \field{title}{Multilevel modeling for psychologists}
+      \field{year}{2012}
+      \field{pages}{219\bibrangedash 241}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/13621-011
+      \endverb
+    \endentry
+    \entry{NEZLEK2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=deb55580db39e8dc94d6ab777b11e67f}{%
+           family={Nezlek},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70afc16fb2d9afdf01445260fe9bf288}{%
+           family={Schröder-Abé},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Michela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63fe1d5fd597ece510850bbb4ed0d9c}{%
+           family={Schütz},
+           familyi={S\bibinitperiod},
+           given={Astrid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hogrefe Publishing Group}%
+      }
+      \strng{namehash}{6e907a978ef03098bcf14da282bf5db6}
+      \strng{fullhash}{e3c6f92764ccd31839f277d68b6551d5}
+      \strng{bibnamehash}{e3c6f92764ccd31839f277d68b6551d5}
+      \strng{authorbibnamehash}{e3c6f92764ccd31839f277d68b6551d5}
+      \strng{authornamehash}{6e907a978ef03098bcf14da282bf5db6}
+      \strng{authorfullhash}{e3c6f92764ccd31839f277d68b6551d5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychologische Rundschau}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Mehrebenenanalysen in der psychologischen Forschung}
+      \field{volume}{57}
+      \field{year}{2006}
+      \field{pages}{213\bibrangedash 223}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1026/0033-3042.57.4.213
+      \endverb
+      \keyw{nested data,repeated measures,multilevel analyses,random coefficients,random effects,event contingent data,interval contingent data}
+    \endentry
+    \entry{OEHMANN2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2a0c0151ef86f2f7a5ba9889b42933ff}{%
+           family={Öhman},
+           familyi={Ö\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3113f73e000e46a84a639647945f54cf}{%
+           family={Mineka},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \strng{fullhash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \strng{bibnamehash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \strng{authorbibnamehash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \strng{authornamehash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \strng{authorfullhash}{2fe843a7abee2221cb45c1157d94f6dd}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning}
+      \field{volume}{108}
+      \field{year}{2001}
+      \field{pages}{483\bibrangedash 522}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1037/0033-295x.108.3.483
+      \endverb
+    \endentry
+    \entry{OJALA2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8cd0108b894d1fc9c39e3a1eef593817}{%
+           family={Ojala},
+           familyi={O\bibinitperiod},
+           given={Karita\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d3257fc01e1800ad856b251f73d9322}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Dominik\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0908637747ceae01df97420d9aaba39}
+      \strng{fullhash}{a0908637747ceae01df97420d9aaba39}
+      \strng{bibnamehash}{a0908637747ceae01df97420d9aaba39}
+      \strng{authorbibnamehash}{a0908637747ceae01df97420d9aaba39}
+      \strng{authornamehash}{a0908637747ceae01df97420d9aaba39}
+      \strng{authorfullhash}{a0908637747ceae01df97420d9aaba39}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroscience and Biobehavioral Reviews}
+      \field{title}{Measuring learning in human classical threat conditioning: A review of translational, cognitive and methodological considerations}
+      \field{volume}{114}
+      \field{year}{2020}
+      \field{pages}{96\bibrangedash 112}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.neubiorev.2020.04.019
+      \endverb
+      \keyw{Fear conditioning,Associative learning,Implicit learning,Psychophysiology,Inverse inference,Conditioned responses,Retrodictive validity}
+    \endentry
+    \entry{PAGEGOULD2016}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa128180a103d5f72d7bb47b71e0ae51}{%
+           family={Page-Gould},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=533326b502bb34f035a925876cca3624}{%
+           family={Cacioppo},
+           familyi={C\bibinitperiod},
+           given={J.T.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c56911163e99ff157961cad9de11287e}{%
+           family={Tassinary},
+           familyi={T\bibinitperiod},
+           given={L.G.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2803c7629664ca814a7a10bfd6f2406c}{%
+           family={Berntson},
+           familyi={B\bibinitperiod},
+           given={G.G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{fullhash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{bibnamehash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{authorbibnamehash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{authornamehash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{authorfullhash}{aa128180a103d5f72d7bb47b71e0ae51}
+      \strng{editorbibnamehash}{e67b6cb4477197e39d6a8f59f7747edf}
+      \strng{editornamehash}{aa46c50e43083e832340041b95d791c9}
+      \strng{editorfullhash}{e67b6cb4477197e39d6a8f59f7747edf}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Psychophysiology}
+      \field{edition}{4}
+      \field{title}{Multilevel Modeling}
+      \field{year}{2016}
+      \field{pages}{662\bibrangedash 678}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1017/9781107415782.030
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1017%2F9781107415782.030
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1017%2F9781107415782.030
+      \endverb
+    \endentry
+    \entry{PAVLOV1927}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d327f52dc87be60617ba6c59c9abaeb0}{%
+           family={Pavlov},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi P.},
+           giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \strng{fullhash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \strng{bibnamehash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \strng{authorbibnamehash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \strng{authornamehash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \strng{authorfullhash}{d327f52dc87be60617ba6c59c9abaeb0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Conditioned reflexes}
+      \field{year}{1927}
+    \endentry
+    \entry{PINHEIRO2000}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=733e52630aa62e100fa93a6df1a0ca24}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d2e3922795dd87c96e97a7f43cc98ab}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ae168c52081d88b9beb3152820a45df}
+      \strng{fullhash}{9ae168c52081d88b9beb3152820a45df}
+      \strng{bibnamehash}{9ae168c52081d88b9beb3152820a45df}
+      \strng{authorbibnamehash}{9ae168c52081d88b9beb3152820a45df}
+      \strng{authornamehash}{9ae168c52081d88b9beb3152820a45df}
+      \strng{authorfullhash}{9ae168c52081d88b9beb3152820a45df}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mixed-Effects Models in S and S-PLUS}
+      \field{year}{2000}
+    \endentry
+    \entry{nlme}{manual}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=78f9915ba12a2d9c52d2d99e619298fb}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=291c4bc67cf41a2019405a2328a9b75e}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e09396659ac5b140b2d8ca7e0037ddaa}{%
+           family={DebRoy},
+           familyi={D\bibinitperiod},
+           given={Saikat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c66905687b4fa2d7cfd34a81a6077915}{%
+           family={Sarkar},
+           familyi={S\bibinitperiod},
+           given={Deepayan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3449375add0515dc29d70b157b738594}
+      \strng{fullhash}{efa1a3ce821e5b83efccf14f9672b8bc}
+      \strng{bibnamehash}{efa1a3ce821e5b83efccf14f9672b8bc}
+      \strng{authorbibnamehash}{efa1a3ce821e5b83efccf14f9672b8bc}
+      \strng{authornamehash}{3449375add0515dc29d70b157b738594}
+      \strng{authorfullhash}{efa1a3ce821e5b83efccf14f9672b8bc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 3.1-149}
+      \field{title}{{nlme}: Linear and Nonlinear Mixed Effects Models}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=nlme
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=nlme
+      \endverb
+    \endentry
+    \entry{PURKIS2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=94c23d1fddc416ac9453dcf1c678781e}{%
+           family={Purkis},
+           familyi={P\bibinitperiod},
+           given={Helena\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2026a218bee4bc3de0ea46b7af7eab75}{%
+           family={Lipp},
+           familyi={L\bibinitperiod},
+           given={Ottmar\bibnamedelima V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \strng{fullhash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \strng{bibnamehash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \strng{authorbibnamehash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \strng{authornamehash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \strng{authorfullhash}{e21e76bf4b4b9b20e326f1b72b2ba1a9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning and Motivation}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{Does affective learning exist in the absence of contingency awareness?}
+      \field{volume}{32}
+      \field{year}{2001}
+      \field{pages}{84\bibrangedash 99}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1006/lmot.2000.1066
+      \endverb
+      \keyw{affective learning,startle,skin conductance,pavlovian conditioning}
+    \endentry
+    \entry{R}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+      \keyw{Version 4.0.3}
+    \endentry
+    \entry{RACHMAN1977}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31564782736b8764355bd1ba79ce3f76}{%
+           family={Rachman},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{31564782736b8764355bd1ba79ce3f76}
+      \strng{fullhash}{31564782736b8764355bd1ba79ce3f76}
+      \strng{bibnamehash}{31564782736b8764355bd1ba79ce3f76}
+      \strng{authorbibnamehash}{31564782736b8764355bd1ba79ce3f76}
+      \strng{authornamehash}{31564782736b8764355bd1ba79ce3f76}
+      \strng{authorfullhash}{31564782736b8764355bd1ba79ce3f76}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behaviour Research and Therapy}
+      \field{number}{5}
+      \field{title}{The conditioning theory of fearacquisition: A critical examination}
+      \field{volume}{15}
+      \field{year}{1977}
+      \field{pages}{375\bibrangedash 387}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/0005-7967(77)90041-9
+      \endverb
+    \endentry
+    \entry{RAUDENBUSH2002}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=71ce0ad67263fbdb495d8d760e3e205f}{%
+           family={Raudenbush},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33ab7cc9b6cb5c8b6a6ae797979f7473}{%
+           family={Bryk},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {California, CA}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \strng{fullhash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \strng{bibnamehash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \strng{authorbibnamehash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \strng{authornamehash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \strng{authorfullhash}{fe41401cbe10d3e4361fbd42e87b386e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{series}{Advanced quantitative techniques in the social sciences}
+      \field{title}{Hierarchical linear models: Applications and data analysis methods}
+      \field{volume}{1}
+      \field{year}{2002}
+    \endentry
+    \entry{RESCORLA1968}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8240d1788965c60edf838c169c3cf13}{%
+           family={Rescorla},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{f8240d1788965c60edf838c169c3cf13}
+      \strng{fullhash}{f8240d1788965c60edf838c169c3cf13}
+      \strng{bibnamehash}{f8240d1788965c60edf838c169c3cf13}
+      \strng{authorbibnamehash}{f8240d1788965c60edf838c169c3cf13}
+      \strng{authornamehash}{f8240d1788965c60edf838c169c3cf13}
+      \strng{authorfullhash}{f8240d1788965c60edf838c169c3cf13}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Comparative and Physiological Psychology}
+      \field{number}{1}
+      \field{title}{Probability of shock in the presence and absence of CS in fear conditioning}
+      \field{volume}{66}
+      \field{year}{1968}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1037/h0025984
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037%2Fh0025984
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037%2Fh0025984
+      \endverb
+    \endentry
+    \entry{SCHULTZ2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=63513718b51e066a8dbacd0a5ff84b6f}{%
+           family={Schultz},
+           familyi={S\bibinitperiod},
+           given={Douglas\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2800df49a3180e9c23ede5a59cb69c95}{%
+           family={Helmstetter},
+           familyi={H\bibinitperiod},
+           given={Fred\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a178d32e5bdcdcf347f964413c0d732a}
+      \strng{fullhash}{a178d32e5bdcdcf347f964413c0d732a}
+      \strng{bibnamehash}{a178d32e5bdcdcf347f964413c0d732a}
+      \strng{authorbibnamehash}{a178d32e5bdcdcf347f964413c0d732a}
+      \strng{authornamehash}{a178d32e5bdcdcf347f964413c0d732a}
+      \strng{authorfullhash}{a178d32e5bdcdcf347f964413c0d732a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The role of contingency awareness in classical conditioning experiments using human subjects is currently under debate. This study took a novel approach to manipulating contingency awareness in a differential Pavlovian conditioning paradigm. Complex sine wave gratings were used as visual conditional stimuli (CS). By manipulating the fundamental spatial frequency of the displays, we were able to construct pairs of stimuli that varied in discriminability. One group of subjects was given an ```easy''` discrimination, and another was exposed to a ```difficult''` CS and CS--. A 3rd group was exposed to a stimulus that was paired with the unconditional stimulus (UCS) 50\% of the time and served as a control. Skin conductance response (SCR) and continuous UCS expectancy data were measured concurrently throughout the experiment. Differential UCS expectancy was found only in the easy discrimination group. Differential SCRs were found in the easy discrimination group as well as in the difficult discrimination group, but not in the 50\% contingency control. The difficult discrimination group did not exhibit differential UCS expectancy but did show clear differential SCR. These observations support a dual process interpretation of classical conditioning whereby conditioning on an implicit level can occur without explicit knowledge about the contingencies.}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Behavior Processes}
+      \field{number}{4}
+      \field{title}{Classical conditioning of autonomic fear responses is independent of contingency awareness}
+      \field{volume}{36}
+      \field{year}{2010}
+      \field{pages}{495\bibrangedash 500}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1037/a0020263
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037%2Fa0020263
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037%2Fa0020263
+      \endverb
+    \endentry
+    \entry{SEVENSTER2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bff4872a68829ce055794989f1d6127c}{%
+           family={Sevenster},
+           familyi={S\bibinitperiod},
+           given={Dieuwke},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7f9f001e4c097b873dcd145e35f0fc9}{%
+           family={Beckers},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06fabf2440ddc52635fd9a3261c79ea7}{%
+           family={Kindt},
+           familyi={K\bibinitperiod},
+           given={Merel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f54bddd6b38cf06262b0b21731be1df3}
+      \strng{fullhash}{9c7f882b5e112fb5f1671e936fe1dbca}
+      \strng{bibnamehash}{9c7f882b5e112fb5f1671e936fe1dbca}
+      \strng{authorbibnamehash}{9c7f882b5e112fb5f1671e936fe1dbca}
+      \strng{authornamehash}{f54bddd6b38cf06262b0b21731be1df3}
+      \strng{authorfullhash}{9c7f882b5e112fb5f1671e936fe1dbca}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is conflicting evidence as to whether awareness is required for conditioning of the skin conductance response (SCR). Recently, Schultz and Helmstetter reported SCR conditioning in contingency unaware participants by using difficult to discriminate stimuli. These findings are in stark contrast with other observations in human fear conditioning research, showing that SCR predominantly reflects contingency learning. Therefore, we repeated the study by Schultz and Helmstetter and additionally measured conditioning of the startle response, which seems to be less sensitive to declarative knowledge than SCR. While we solely observed SCR conditioning in participants who reported awareness of the contingencies (n = 16) and not in the unaware participants (n = 18), we observed startle conditioning irrespective of awareness. We conclude that SCR but not startle conditioning depends on conscious discriminative fear learning.}
+      \field{issn}{1662-5153}
+      \field{journaltitle}{Frontiers in Behavioral Neuroscience}
+      \field{month}{02}
+      \field{number}{32}
+      \field{title}{Fear conditioning of SCR but not the startle reflex requires conscious discrimination of threat and safety}
+      \field{volume}{8}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.3389/fnbeh.2014.00032
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/fnbeh.2014.00032
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/fnbeh.2014.00032
+      \endverb
+      \keyw{fear conditioning,awareness,skin conductance response,fear potentiated startle,contingency learning}
+    \endentry
+    \entry{SHAPIRO1965}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d68649e4f2a1a671378e6b8133ccb0d3}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4804e1730322ac9acf50f7acded4b705}{%
+           family={Wilk},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press ({OUP})}%
+      }
+      \strng{namehash}{c79429df467595c7a5a1ca33b7d909f2}
+      \strng{fullhash}{c79429df467595c7a5a1ca33b7d909f2}
+      \strng{bibnamehash}{c79429df467595c7a5a1ca33b7d909f2}
+      \strng{authorbibnamehash}{c79429df467595c7a5a1ca33b7d909f2}
+      \strng{authornamehash}{c79429df467595c7a5a1ca33b7d909f2}
+      \strng{authorfullhash}{c79429df467595c7a5a1ca33b7d909f2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biometrika}
+      \field{month}{12}
+      \field{number}{3-4}
+      \field{title}{An analysis of variance test for normality (complete samples)}
+      \field{volume}{52}
+      \field{year}{1965}
+      \field{pages}{591\bibrangedash 611}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1093/biomet/52.3-4.591
+      \endverb
+    \endentry
+    \entry{SIDDLE1991}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ecb59fc6600e7a88eb4e270876bfb72a}{%
+           family={Siddle},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima A.T.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \strng{fullhash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \strng{bibnamehash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \strng{authorbibnamehash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \strng{authornamehash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \strng{authorfullhash}{ecb59fc6600e7a88eb4e270876bfb72a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{05}
+      \field{number}{3}
+      \field{title}{Orienting, habituation, and resource allocation: An associative analysis}
+      \field{volume}{28}
+      \field{year}{1991}
+      \field{pages}{245\bibrangedash 259}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.1991.tb02190.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.1991.tb02190.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.1991.tb02190.x
+      \endverb
+    \endentry
+    \entry{SIDDLE1985}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ecb59fc6600e7a88eb4e270876bfb72a}{%
+           family={Siddle},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima A.T.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf68a4c01cf73655e34d85e2136fd21}{%
+           family={Remington},
+           familyi={R\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d9cdc8fc335fd835cf270d1739d2b54}{%
+           family={Churchill},
+           familyi={C\bibinitperiod},
+           given={Muriel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{698536e48c63582f509bb0b691ce79ae}
+      \strng{fullhash}{d8f9c8e56bdb71e1f9f8936def298218}
+      \strng{bibnamehash}{d8f9c8e56bdb71e1f9f8936def298218}
+      \strng{authorbibnamehash}{d8f9c8e56bdb71e1f9f8936def298218}
+      \strng{authornamehash}{698536e48c63582f509bb0b691ce79ae}
+      \strng{authorfullhash}{d8f9c8e56bdb71e1f9f8936def298218}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Psychology}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{Effects of conditioned stimulus preexposure on human electrodermal conditioning}
+      \field{volume}{20}
+      \field{year}{1985}
+      \field{pages}{113\bibrangedash 127}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/0301-0511(85)90020-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2F0301-0511%2885%2990020-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2F0301-0511%2885%2990020-1
+      \endverb
+    \endentry
+    \entry{SJOUWERMAN2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8b2d9404c584298b551a8d9c45d24202}{%
+           family={Sjouwerman},
+           familyi={S\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c1ca3cb516eff7296fada31141dbf94}{%
+           family={Niehaus},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ace17651c5c6e764b9f81f0145dc276a}{%
+           family={Kuhn},
+           familyi={K\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e6bb0d99da41081b1979b38e03371d6}{%
+           family={Lonsdorf},
+           familyi={L\bibinitperiod},
+           given={Tina\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5ca80bf3a9b69412d3b9cd50ee05d045}
+      \strng{fullhash}{ffa4c9a29d989b92d6c76b33994c752e}
+      \strng{bibnamehash}{ffa4c9a29d989b92d6c76b33994c752e}
+      \strng{authorbibnamehash}{ffa4c9a29d989b92d6c76b33994c752e}
+      \strng{authornamehash}{5ca80bf3a9b69412d3b9cd50ee05d045}
+      \strng{authorfullhash}{ffa4c9a29d989b92d6c76b33994c752e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{09}
+      \field{number}{12}
+      \field{title}{Don{'}t startle me -- Interference of startle probe presentations and intermittent ratings with fear acquisition}
+      \field{volume}{53}
+      \field{year}{2016}
+      \field{pages}{1889\bibrangedash 1899}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/psyp.12761
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111%2Fpsyp.12761
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111%2Fpsyp.12761
+      \endverb
+    \endentry
+    \entry{TABBERT2006}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=597057f2d3f2b294c716fae486474bc4}{%
+           family={Tabbert},
+           familyi={T\bibinitperiod},
+           given={Katharina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0477fbed7d16954d6319134304ba42a7}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51e94d8dfe6ccaa4e90977d3b72f197c}{%
+           family={Kirsch},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c145c43a0f3733b5e9c162998bf0b79}{%
+           family={Vaitl},
+           familyi={V\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f4543a4dac055edc5eec8e84e7e708ea}
+      \strng{fullhash}{83417d8841fa8836fecdd8ca2c935348}
+      \strng{bibnamehash}{83417d8841fa8836fecdd8ca2c935348}
+      \strng{authorbibnamehash}{83417d8841fa8836fecdd8ca2c935348}
+      \strng{authornamehash}{f4543a4dac055edc5eec8e84e7e708ea}
+      \strng{authorfullhash}{83417d8841fa8836fecdd8ca2c935348}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study investigates the effect of awareness of stimulus contingencies on BOLD responses within the amygdala, the orbitofrontal, and the occipital cortex, and on differential skin conductance responses (SCRs) during fear conditioning. Of two geometric figures, the paired conditioned stimulus (CS+) predicted an electrical stimulus (unconditioned stimulus = UCS), whereas the unpaired conditioned stimulus (CS−) was not followed by the UCS. Awareness of stimulus contingencies was manipulated experimentally, creating an aware and an unaware group: a distracter figure and a working memory task were introduced to conceal the stimulus contingencies of the conditioning paradigm, hence preventing contingency detection in the unaware group. The aware group was informed beforehand about the relation between CS+, CS−, and UCS. Differential SCRs were only obtained in the aware but not in the unaware group. Conversely, we observed enhanced responses of the amygdala, the orbitofrontal, and the occipital cortex to the CS+ in the unaware group only. Thus, we found a dissociation of SCR differentiation and the activation of a neural fear network depending on the presence or absence of awareness. These results support a model of fear conditioning that distinguishes between a more cognitive level of learning, reflected in contingency awareness and differential SCRs, and the awareness independent activation of a fear network.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{number}{2}
+      \field{title}{Dissociation of neural responses and skin conductance reactions during fear conditioning with and without awareness of stimulus contingencies}
+      \field{volume}{32}
+      \field{year}{2006}
+      \field{pages}{761\bibrangedash 770}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2006.03.038
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1053811906002217
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1053811906002217
+      \endverb
+    \endentry
+    \entry{VAITL1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c145c43a0f3733b5e9c162998bf0b79}{%
+           family={Vaitl},
+           familyi={V\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2026a218bee4bc3de0ea46b7af7eab75}{%
+           family={Lipp},
+           familyi={L\bibinitperiod},
+           given={Ottmar\bibnamedelima V},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \strng{fullhash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \strng{bibnamehash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \strng{authorbibnamehash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \strng{authornamehash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \strng{authorfullhash}{6abd7ab800a3f9cb976369dd343ee0ee}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Latent inhibition, retarded learning after preexposure to the to-be-conditioned stimulus, has been implied as a tool for the investigation of attentional deficits in schizophrenia and related disorders. The present paper reviews research that used Pavlovian conditioning as indexed by autonomic responses (electrodermal, vasomotor, cardiac) to investigate latent inhibition in adult humans. Latent inhibition has been demonstrated repeatedly in healthy subjects in absence of a masking task that is required in other latent inhibition paradigms. Moreover, latent inhibition of Pavlovian conditioning is stimulus-specific and increases with an increased number of preexposure trials which mirrors results from research in animals. A reduction of latent inhibition has been shown in healthy subjects who score high on questionnaire measures of psychosis proneness and in unmedicated schizophrenic patients. The latter result was obtained in a within-subject paradigm that holds promise for research with patient samples.}
+      \field{issn}{0166-4328}
+      \field{journaltitle}{Behavioural Brain Research}
+      \field{number}{1}
+      \field{title}{Latent inhibition and autonomic respones: A psychophysiological approach}
+      \field{volume}{88}
+      \field{year}{1997}
+      \field{pages}{85\bibrangedash 93}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0166-4328(97)02310-3
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0166432897023103
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0166432897023103
+      \endverb
+      \keyw{Latent inhibition,Schizophrenia,Schizotypal disorder,Pavlovian conditioning,Electrodermal responses,Vasomotor responses,Cardiac responses}
+    \endentry
+    \entry{mass}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c68b01adf180a0acb6784a2c2cd5730d}{%
+           family={Venables},
+           familyi={V\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=954c3d15a7ac59d107805a2aee7be29f}{%
+           family={Ripley},
+           familyi={R\bibinitperiod},
+           given={B.\bibnamedelimi D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9d115c29003115cc1a24322cac991c23}
+      \strng{fullhash}{9d115c29003115cc1a24322cac991c23}
+      \strng{bibnamehash}{9d115c29003115cc1a24322cac991c23}
+      \strng{authorbibnamehash}{9d115c29003115cc1a24322cac991c23}
+      \strng{authornamehash}{9d115c29003115cc1a24322cac991c23}
+      \strng{authorfullhash}{9d115c29003115cc1a24322cac991c23}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Modern Applied Statistics with S}
+      \field{year}{2002}
+    \endentry
+    \entry{WEIDEMANN2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5e2b4f8067f512fb4d7bac104e4fc8a3}{%
+           family={Weidemann},
+           familyi={W\bibinitperiod},
+           given={Gabrielle},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4cc093574c8e1a1ecb2e767ad853f1c}{%
+           family={Satkunarajah},
+           familyi={S\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a101945fe5a1ba7e613d2e2d9b7c3b3}{%
+           family={Lovibond},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7217d4ef4c229f3123f2a0d516bf5986}
+      \strng{fullhash}{b0546e3b866397f075e845a7b4ac2c0d}
+      \strng{bibnamehash}{b0546e3b866397f075e845a7b4ac2c0d}
+      \strng{authorbibnamehash}{b0546e3b866397f075e845a7b4ac2c0d}
+      \strng{authornamehash}{7217d4ef4c229f3123f2a0d516bf5986}
+      \strng{authorfullhash}{b0546e3b866397f075e845a7b4ac2c0d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Science}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{I think, therefore eyeblink: The importance of contingency awareness in conditioning}
+      \field{volume}{27}
+      \field{year}{2016}
+      \field{pages}{467\bibrangedash 475}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1177/0956797615625973
+      \endverb
+      \keyw{eyeblink conditioning,awareness,learning,attention}
+    \endentry
+    \entry{WEIKE2007}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3cddb9b2f2d47e6c54655a126b6e4b40}{%
+           family={Weike},
+           familyi={W\bibinitperiod},
+           given={Almut\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d8f12f19894cf6b1a2ffc6a005bddf3}{%
+           family={Schupp},
+           familyi={S\bibinitperiod},
+           given={Harald\bibnamedelima T.},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7ede1e3ebe53df794a5b500613fb7d1}{%
+           family={Hamm},
+           familyi={H\bibinitperiod},
+           given={Alfons\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1276e4907121a4157a87bcd85080cada}
+      \strng{fullhash}{5b723329138da89bee95213fbd9e4a1d}
+      \strng{bibnamehash}{5b723329138da89bee95213fbd9e4a1d}
+      \strng{authorbibnamehash}{5b723329138da89bee95213fbd9e4a1d}
+      \strng{authornamehash}{1276e4907121a4157a87bcd85080cada}
+      \strng{authorfullhash}{5b723329138da89bee95213fbd9e4a1d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Fear acquisition requires awareness in trace but not delay conditioning}
+      \field{volume}{44}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.1111/j.1469-8986.2006.00469.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.2006.00469.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111%2Fj.1469-8986.2006.00469.x
+      \endverb
+      \keyw{Fear,Startle,Delay conditioning,Trace conditioning,Awareness,Emotional learning}
+    \endentry
+    \entry{TIDYVERSE}{article}{}
+      \name{author}{24}{}{%
+        {{un=0,uniquepart=base,hash=1d0f6977ce2d043e298a59a1cd75b7ef}{%
+           family={Wickham},
+           familyi={W\bibinitperiod},
+           given={Hadley},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c11220b22f907dc3709ff23c6b023e5}{%
+           family={Averick},
+           familyi={A\bibinitperiod},
+           given={Mara},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f88b724c9f070dbceda00a5027d25bb}{%
+           family={Bryan},
+           familyi={B\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ad4f9244dbfff3b38eeeec6d91fbd7d}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Winston},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28ee445d433874efb86495f4c4e9d559}{%
+           family={McGowan},
+           familyi={M\bibinitperiod},
+           given={Lucy\bibnamedelima D'Agostino},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bd2c624a8715b2aeffcecaa24f3d017}{%
+           family={François},
+           familyi={F\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de759ef99fad34b8426e26035eb4a20b}{%
+           family={Grolemund},
+           familyi={G\bibinitperiod},
+           given={Garrett},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83154656fbd4fc02a9e468c493204cf9}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4caae9be043b32573c94b11203a4a2fe}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={Lionel},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d26572f4d1de0fce70db1a8cfb6b0d1}{%
+           family={Hester},
+           familyi={H\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3305789acf03200ed22f154007d4fab9}{%
+           family={Kuhn},
+           familyi={K\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa847ed0a47fe330db451600329cf32}{%
+           family={Pedersen},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelima Lin},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac004a72f317bb04dcf539660a0feee0}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5769225f722449dff0c3f62aa09d2f6e}{%
+           family={Bache},
+           familyi={B\bibinitperiod},
+           given={Stephan\bibnamedelima Milton},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1435ca4f08e53208e1c34297357afa80}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Kirill},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f4f7df4d18c1270721b575fc1288184}{%
+           family={Ooms},
+           familyi={O\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42a6c387e6c733bd0db8180d2bbacd30}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d318a128b5a51b4b776ac61c1f4f7e99}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Dana\bibnamedelima Paige},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac149bcd683a561a218e8dc1c1529489}{%
+           family={Spinu},
+           familyi={S\bibinitperiod},
+           given={Vitalie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc134fc26d52494111fa09f0a1546069}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Kohske},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=858f3a61393526cfc73cb860925a277a}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Davis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acc6b5a79d7cad33c02e41491584028f}{%
+           family={Wilke},
+           familyi={W\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff79890fd7a7f58816ee7360c25d812e}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2f301536c9cd620e39deb5fad8712ff}{%
+           family={Yutani},
+           familyi={Y\bibinitperiod},
+           given={Hiroaki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0731a35ef88164c57848ecb7ca5f8ca}
+      \strng{fullhash}{60da0af5902bcdfab541641a492d8d42}
+      \strng{bibnamehash}{14811cb47caed532456ddb2dca296145}
+      \strng{authorbibnamehash}{14811cb47caed532456ddb2dca296145}
+      \strng{authornamehash}{e0731a35ef88164c57848ecb7ca5f8ca}
+      \strng{authorfullhash}{60da0af5902bcdfab541641a492d8d42}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Software}
+      \field{number}{43}
+      \field{title}{Welcome to the {tidyverse}}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{pages}{1686}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.21105/joss.01686
+      \endverb
+    \endentry
+    \entry{WIENS2002}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=08ceaa7bc5d77612064674c62bbb3e12}{%
+           family={Wiens},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a0c0151ef86f2f7a5ba9889b42933ff}{%
+           family={Öhman},
+           familyi={Ö\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \strng{fullhash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \strng{bibnamehash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \strng{authorbibnamehash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \strng{authornamehash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \strng{authorfullhash}{104b0a2047f40e7b3f2c2a3ec1d89dad}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0097-7403}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Behavior Processes}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Unawareness is more than a chance event: Comment on Lovibond and Shanks (2002)}
+      \field{volume}{28}
+      \field{year}{2002}
+      \field{pages}{27\bibrangedash 31}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1037/0097-7403.28.1.27
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

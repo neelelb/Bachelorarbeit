@@ -1,0 +1,78 @@
+% BACHELORARBEIT MAIN
+% Autorin.................................Neele Elbersgerd
+\author{Neele \textsc{Elbersgerd}} 		% print with \authorname
+% Erstellungsdatum........................10.08.2020
+
+
+%--------IMPORT PRÄAMBEL
+		\input{packages.tex}	
+		
+\begin{document}
+
+	\pagenumbering{roman} 	% Seitenummerierung mit römischen Zahlen für Tabellen- & Abbildungsverzeichnis
+	\pagestyle{empty} 		% keine Kopf- oder Fußzeilen auf den ersten Seiten
+	
+	%--------TITELSEITE
+		\input{chapters/titlepage}
+		
+		\pagestyle{scrheadings} 	% Einstellen der Kopf und Fußzeilen für den Rest der Seiten
+			\clearpairofpagestyles	% entfernt die default Kopf- und Fußzeile
+			\ohead*{\pagemark}		% Seitenzahl oben rechts, *: auf jeder Seite
+			\ihead*{\rightmark} 	% Kopfzeile zentriert mit Kapitelüberschrift
+
+	%--------VERZEICHNISSE
+		\tableofcontents 			% erstelle hier das Inhaltsverzeichnis
+		%	\addchap*{Verzeichnisse} \listoffigures \listoftables
+		\listoffigures				% erstelle hier das Abbildungsverzeichnis			
+		\begingroup					% lof & lot auf gleicher Seite
+			\let\clearpage\relax
+			\listoftables			% erstelle hier das Tabellenverzeichnis
+		\endgroup
+
+		\addchap{Abkürzungsverzeichnis}		% erstelle das Abkürzungsverzeichnis
+			\input{chapters/acronyms}\label{Zusammenfassung}
+
+		%Befehle \addchap und \addsec, die jeweils eine nicht nummerierte Überschrift erstellen, aber auch für deren korrekten Eintrag ins Inhaltsverzeichnis und in die Kopfzeile sorgen.
+	
+	%--------ABSTRACT
+		\clearpage
+		\addchap{\abstractname}\input{chapters/abstract}
+	
+	%--------INHALT
+		\clearpage
+		\pagenumbering{arabic} 		% ab jetzt arabische Nummerierung
+			\addchap{Einleitung}
+				\input{chapters/introduction}
+				%\addcontentsline{toc}{chapter}{Einleitung} 
+				
+			\chapter{Theorie und Stand der Forschung} 		\label{theorie}
+				\input{chapters/theory}
+				
+			\chapter{Explorative Fragestellung}				\label{fragestellung}
+				\input{chapters/hypothesis}
+				
+			\chapter{Methoden}								\label{methoden}
+				\input{chapters/methods}
+			
+			\chapter{Ergebnisse}							\label{ergebnisse}
+				\input{chapters/results}
+				
+			\chapter{Diskussion}							\label{diskussion}
+				\input{chapters/discussion}
+	
+	%--------LITERATUR
+			\printbibliography[					% erstelle hier das Literaturverzeichnis
+				heading=bibintoc,
+				title={Literaturverzeichnis}	% Titel
+			]
+										
+	%--------ANHANG
+			\addchap{Anhang}											
+				\input{chapters/appendix}
+					
+			\addchap{Selbstständigkeitserklärung}
+				\input{chapters/declaration}
+
+
+%--------ENDE DES DOKUMENTS
+\end{document}
