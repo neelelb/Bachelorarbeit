@@ -21,7 +21,7 @@ STR and SCR are two of the most commonly used indicators of fear acquiring proce
 ## Analysis
 The data was analysed using a multivariate multilevel regression model coded in nlme package in R. This modelling approach was used to look at the growth curves of the two variables over time in the same model while accounting for the broad variability between participants' data which is commonly observed in peripheral psychological measurements.
 The figure depicts the hierarchical structure that was employed:
-![hierarchical structure of MLM](structure.png)
+![hierarchical structure of MLM](latex/images/structure.png)
 
 
 ## Results
