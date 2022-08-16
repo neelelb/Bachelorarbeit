@@ -3,14 +3,15 @@
 A repo for preprocessing and analyzing experimental EMG and EDA Biopac Data in R used for my bachelor thesis in biological psychology. 
 
 ## Repo Content
-The repo contains R files for 
-0. importing the data, 
-1. exploratory data analysis, 
-2. plots for EDA, 
-3. Analysis using Multivariate Multilevel Regression Model, and 
-4. plots of the results  
-as well as tex files for creating the Bachelor Thesis manuscript
-
+The R folder contains files for
+<ol start="0">
+  <li>importing the data</li>
+  <li>exploratory data analysis</li>
+  <li>plots for EDA</li>
+  <li>analysis using Multivariate Multilevel Regression Model</li>
+  <li>plots of the results.</li>
+</ol>  
+The latex folder contains figures and tex files for the (german) Bachelor Thesis manuscript
 
 ## Data
 The data was acquired within a fear conditioning experiment conducted at the University of Potsdam. Participants were presented with geometrical stimuli on a computer screen. One of the geometrical stimuli was paired with an electrical stimulus on 50% of the trials (CS+), while the other one was never paired with such a stimulus (CS-). Startle-Eye-Blink responses (STR; measures muscle activity of orbicularis oculi) to the geometrical stimuli as well as skin conductance responses (SCR; indicator for electrodermal responses) were acquired for each participant. After half of the trials, the participants were instructed via the computer screen about the 50% contingency between CS+ and electric stimulation. 
